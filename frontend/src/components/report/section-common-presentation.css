@@ -1,0 +1,245 @@
+/**
+ * 03/04 Common Presentation Contract — STRUCTURE / LAYOUT / SPACING only.
+ * Typography: reuse production --report-* tokens. Do not copy demo HTML px fonts.
+ */
+
+.scp-incomplete {
+  margin: 10px 0 0;
+  color: var(--scp-muted);
+  font-size: var(--report-body-size, 15px);
+}
+
+/* Align intro / lead / flow / prose with .fc-section-title (not section number).
+   .ws-section already pads to the title column — see override below. */
+.scp-intro,
+.scp-lead,
+.scp-content {
+  margin-left: var(--fc-section-title-indent);
+}
+
+.ws-section.fc-section .scp-intro,
+.ws-section.fc-section .scp-lead,
+.ws-section.fc-section .scp-content,
+.ws-career-section.fc-section .scp-intro,
+.ws-career-section.fc-section .scp-lead,
+.ws-career-section.fc-section .scp-content {
+  margin-left: 0;
+}
+
+.scp-intro {
+  margin-top: 10px;
+  margin-right: 0;
+  margin-bottom: 0;
+  max-width: none;
+  width: 100%;
+  color: var(--scp-muted);
+  font-size: var(--report-body-size, 15px);
+  font-weight: var(--report-fw-body, 450);
+  line-height: var(--report-lh-body, 1.7);
+  word-break: keep-all;
+  overflow-wrap: normal;
+  text-wrap: pretty;
+}
+
+.scp-divider {
+  height: 1px;
+  margin: 24px 0 26px;
+  background: var(--scp-line);
+  border: 0;
+}
+
+.scp-lead {
+  margin-top: 22px;
+  margin-right: 0;
+  margin-bottom: 24px;
+  max-width: none;
+}
+
+.scp-lead__title {
+  margin: 0 0 8px;
+  color: inherit;
+  font-size: var(--report-step-title-size, 16.5px);
+  font-weight: var(--report-fw-subsection, 700);
+  line-height: var(--report-lh-subsection, 1.4);
+  letter-spacing: var(--report-tracking-display, -0.02em);
+  word-break: keep-all;
+}
+
+.scp-lead__body {
+  margin: 0;
+  max-width: none;
+  width: 100%;
+  color: var(--scp-muted);
+  font-size: var(--report-body-size, 15px);
+  font-weight: var(--report-fw-body, 450);
+  line-height: var(--report-lh-body, 1.7);
+  word-break: keep-all;
+  overflow-wrap: normal;
+  text-wrap: pretty;
+}
+
+.scp-content {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+/* Compact 4-step: four independent boxes + chevrons */
+.scp-flow {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 24px minmax(0, 1fr) 24px minmax(0, 1fr) 24px minmax(0, 1fr);
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 30px;
+}
+
+.scp-flow__step {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  min-height: 46px;
+  padding: 8px 14px;
+  border: 1px solid var(--scp-flow-border);
+  border-radius: 3px;
+  background: var(--scp-flow-bg);
+  text-align: center;
+  white-space: normal;
+  box-shadow: none;
+}
+
+.scp-flow__no {
+  color: var(--scp-blue);
+  font-size: var(--report-label-size, 13.5px);
+  font-weight: var(--report-fw-title, 800);
+  line-height: var(--report-lh-label, 1.4);
+}
+
+.scp-flow__label {
+  color: inherit;
+  font-size: var(--report-body-size, 15px);
+  font-weight: var(--report-fw-subsection, 700);
+  line-height: var(--report-lh-subsection, 1.4);
+  letter-spacing: var(--report-tracking-display, -0.02em);
+  word-break: keep-all;
+}
+
+.scp-flow__arrow {
+  text-align: center;
+  color: var(--scp-arrow);
+  font-size: 1.35em;
+  line-height: 1;
+  user-select: none;
+}
+
+.scp-prose {
+  margin: 0;
+  padding: 0;
+}
+
+.scp-prose__item {
+  margin: 0;
+}
+
+.scp-prose__item + .scp-prose__item {
+  margin-top: 26px;
+}
+
+.scp-prose__title {
+  margin: 0 0 6px;
+  color: inherit;
+  font-size: var(--report-step-title-size, 16.5px);
+  font-weight: var(--report-fw-subsection, 700);
+  line-height: var(--report-lh-subsection, 1.4);
+  letter-spacing: var(--report-tracking-display, -0.02em);
+  word-break: keep-all;
+}
+
+.scp-prose__body {
+  margin: 0;
+  max-width: none;
+  width: 100%;
+  color: var(--scp-muted);
+  font-size: var(--report-body-size, 15px);
+  font-weight: var(--report-fw-body, 450);
+  line-height: var(--report-lh-body, 1.7);
+  word-break: keep-all;
+  overflow-wrap: normal;
+  text-wrap: pretty;
+}
+
+.scp-fail {
+  margin: 12px 0 0;
+  color: var(--scp-muted);
+  font-size: var(--report-supporting-size, 13px);
+  font-weight: var(--report-fw-body, 450);
+  line-height: var(--report-lh-body, 1.7);
+}
+
+/* Occupation step flow — title + body as one reading unit */
+.scp-steps {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.scp-steps__item {
+  margin: 0;
+  padding: 0;
+}
+
+.scp-steps__item + .scp-steps__item {
+  margin-top: 28px;
+  padding-top: 28px;
+  border-top: 1px solid var(--scp-line);
+}
+
+.scp-steps__title {
+  margin: 0 0 8px;
+  color: inherit;
+  font-size: var(--report-step-title-size, 16.5px);
+  font-weight: var(--report-fw-subsection, 700);
+  line-height: var(--report-lh-subsection, 1.4);
+  letter-spacing: var(--report-tracking-display, -0.02em);
+  word-break: keep-all;
+}
+
+.scp-steps__body {
+  margin: 0;
+  max-width: none;
+  width: 100%;
+  color: var(--scp-muted);
+  font-size: var(--report-body-size, 15px);
+  font-weight: var(--report-fw-body, 450);
+  line-height: var(--report-lh-body, 1.7);
+  word-break: keep-all;
+  overflow-wrap: normal;
+  text-wrap: pretty;
+}
+
+@media (max-width: 860px) {
+  .scp-intro,
+  .scp-lead,
+  .scp-content {
+    margin-left: 0;
+  }
+
+  .scp-intro,
+  .scp-lead__body,
+  .scp-prose__body,
+  .scp-steps__body {
+    max-width: 100%;
+  }
+
+  .ws-section.fc-section,
+  .ws-career-section.fc-section {
+    padding-left: 0;
+  }
+
+  .ws-section.fc-section > .fc-section-head,
+  .ws-career-section.fc-section > .fc-section-head {
+    margin-left: 0;
+    width: 100%;
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "view_model_id": "FINAL_REPORT_VIEW_MODEL_V28",
+  "jobCd": "K000007548",
+  "occupation_name": "자동차조립원",
+  "current_work_summary": "자동차를 제작하기 위하여 자동차 차체에 조향장치등 각종 부속품을 조립합니다. 주요 업무에는 작업지시서 기반 공구·자재 확인, 차량 부품 조립·부착, 주행 가능 상태를 위한 주입 마무리 등이 포함됩니다.",
+  "section_01": {
+    "title": "AI 시대의 역할 변화",
+    "narrative": "모든 업무가 AI 도움도와 사람 판단 중요도가 낮은 영역에 몰려 있지만, 실제 일은 생산라인에서 부품과 공구를 직접 다루는 조립 작업이어서 AI 영향이 제한적인 직업입니다.\n\n배선·내장부품·브레이크·엔진·타이어 등을 공정에 맞춰 조립하고 완성 차량을 마무리·이동하는 일은 자동차조립원이 현장에서 직접 수행해야 합니다.",
+    "distribution_notes": [
+      {
+        "kind": "주요 분포",
+        "text": "대부분의 업무가 <strong>AI 도움 낮음 × 사람 판단 낮음</strong> 영역에 있습니다 (12/12)."
+      }
+    ],
+    "heatmap_blobs": [
+      {
+        "left": 62.5,
+        "top": 62.5,
+        "width": 39,
+        "height": 28
+      },
+      {
+        "left": 62.5,
+        "top": 62.5,
+        "width": 18.72,
+        "height": 15.12
+      }
+    ],
+    "combinations": {
+      "L/L": 12
+    }
+  },
+  "section_02": {
+    "title": "업무 가치 변화",
+    "left_heading": "직접 자동차 부품 조립 중심이라 구체적 AI 역할이 확인되지 않는 업무",
+    "right_heading": "공구와 부품을 직접 다뤄 차량의 내·외장·구동·제동장치를 조립하는 역할",
+    "left_items": [],
+    "right_items": [
+      {
+        "title": "내장·배선·램프를 직접 조립하기",
+        "description": "동력공구와 특수공구를 사용해 내장부품·배선·트림·램프를 실제 차체에 조립해야 합니다."
+      },
+      {
+        "title": "현가·조향·제동·동력장치를 직접 조립하기",
+        "description": "완충장치·조향기어·브레이크·엔진·변속기를 공정에 맞게 실제로 장착해야 합니다."
+      },
+      {
+        "title": "유리·배기·외장·좌석을 직접 장착하기",
+        "description": "차량의 유리·배기관·범퍼·등화류·의자를 실제 위치에 맞춰 조립해야 합니다."
+      },
+      {
+        "title": "완성차를 주행가능 상태로 마무리·이동하기",
+        "description": "오일·냉각수·연료 등을 주입하고 완성차를 검사장으로 직접 이동시켜야 합니다."
+      }
+    ],
+    "left_notes": [
+      {
+        "label": "왜 카드가 없나",
+        "text": "12개 Task가 모두 AI_AUGMENTATION=L이며 공구·부품·차량을 직접 다루는 조립작업이라 구체적인 AI 역할을 만들 근거가 없습니다."
+      },
+      {
+        "label": "해석 원칙",
+        "text": "AI 역할을 억지로 추가하지 않고 원문에 나타난 직접 조립·마무리 중심의 직무구조를 그대로 반영했습니다."
+      }
+    ],
+    "right_notes": [
+      {
+        "label": "사람에게 남는 이유",
+        "text": "조립원은 실제 부품의 위치·체결상태와 차체공정을 보며 공구로 정확하게 조립해야 합니다."
+      },
+      {
+        "label": "변화의 핵심",
+        "text": "현재 Task 기준으로는 AI보다 사람의 직접 부품조립·마무리 수행이 직무의 중심입니다."
+      }
+    ]
+  },
+  "section_03": {
+    "title": "앞으로 중요한 경쟁력",
+    "intro": "현재 Task 기준으로는 AI보다 사람의 직접 부품조립·마무리 수행이 직무의 중심입니다. 따라서 AI 활용 자체보다 정해진 절차와 도구를 정확하게 다루어 작업을 완성하는 현장 수행력이 경쟁력의 중심으로 남습니다.",
+    "items": [
+      {
+        "title": "내장·배선·램프를 직접 조립하는 수행력",
+        "description": "현재 확인된 업무에서는 AI 지원보다 직접 수행이 중심입니다. 동력공구와 특수공구를 사용해 내장부품·배선·트림·램프를 실제 차체에 조립해야 합니다."
+      },
+      {
+        "title": "현가·조향·제동·동력장치를 직접 조립하는 수행력",
+        "description": "현재 확인된 업무에서는 AI 지원보다 직접 수행이 중심입니다. 완충장치·조향기어·브레이크·엔진·변속기를 공정에 맞게 실제로 장착해야 합니다."
+      },
+      {
+        "title": "유리·배기·외장·좌석을 직접 장착하는 수행력",
+        "description": "현재 확인된 업무에서는 AI 지원보다 직접 수행이 중심입니다. 차량의 유리·배기관·범퍼·등화류·의자를 실제 위치에 맞춰 조립해야 합니다."
+      }
+    ]
+  },
+  "section_04": {
+    "title": "AI를 활용하는 방식",
+    "competencies": [
+      {
+        "display_name": "문제를 제대로 파악하기",
+        "definition": "업무에서 무엇을 해결해야 하는지 제대로 파악하는 힘",
+        "occupation_manifestation": "작업지시서 기반 공구·자재 확인, 차량 부품 조립·부착처럼 서로 다른 업무에서 무엇을 확인하고 수행해야 하는지 구분합니다."
+      },
+      {
+        "display_name": "AI와 사람의 역할 나누기",
+        "definition": "AI에 맡길 일과 사람이 직접 판단할 일을 나누는 힘",
+        "occupation_manifestation": "작업지시서 기반 공구·자재 확인에서 AI가 보조할 부분과 사람이 직접 판단하거나 수행할 부분을 나눕니다."
+      },
+      {
+        "display_name": "근거를 확인하고 따져보기",
+        "definition": "자료를 확인하고 근거가 맞는지 따져보는 힘",
+        "occupation_manifestation": "작업지시서 기반 공구·자재 확인에서 업무 설명에 제시된 자료·상태·결과를 확인하고 근거가 맞는지 따져봅니다."
+      },
+      {
+        "display_name": "AI를 어떻게 활용할지 정하기",
+        "definition": "업무 목적에 맞게 AI를 어떻게 활용할지 정하는 힘",
+        "occupation_manifestation": "작업지시서 기반 공구·자재 확인에서 AI가 도움을 줄 수 있는 범위를 정하고, 사람이 직접 확인하거나 수행할 부분을 남깁니다."
+      },
+      {
+        "display_name": "결과를 확인하고 고치기",
+        "definition": "나온 결과를 확인하고 틀린 점·빠진 점을 고치는 힘",
+        "occupation_manifestation": "작업지시서 기반 공구·자재 확인에서 확인·점검·검토한 결과가 실제 업무 내용과 맞는지 살핍니다."
+      },
+      {
+        "display_name": "변수가 생기면 다시 판단하기",
+        "definition": "예상과 다른 상황이 생기면 판단과 대응을 다시 조정하는 힘",
+        "occupation_manifestation": "현재 업무 설명에는 상황 변화에 따라 판단을 다시 조정하는 행위가 구체적으로 제시되지 않아, 이 역량의 발현을 더 좁혀 설명하지 않습니다."
+      }
+    ],
+    "cta": {
+      "title": "나는 업무에 AI를 얼마나 잘 활용할 수 있나",
+      "text": "이 직무의 문제를 AI를 활용해 직접 해결해보고, 나의 AI 활용 역량을 진단받아 보세요."
+    }
+  },
+  "reference": {
+    "tasks": [
+      {
+        "task_id": "K000007548-T01",
+        "task_short_id": "T01",
+        "task_text": "작업지시서에 따라 조립에 필요한 공구 및 자재를 확인한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "작업지시서에 맞는 공구와 자재를 직접 확인·준비하는 절차적 현장업무가 중심이라 AI 도움도는 낮음입니다. 정해진 목록과 작업지시를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T02",
+        "task_short_id": "T02",
+        "task_text": "조립작업 라인에 위치한 후 동력공구나 공정에 맞는 특수공구로 각종 내장 부품과 배선, 내장트림(trim, 장식), 램프류를 조립한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "내장부품·배선·트림·램프류를 공구로 직접 조립하는 반복적 생산작업이 중심이라 AI 도움도는 낮음입니다. 정해진 공정과 조립순서를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T03",
+        "task_short_id": "T03",
+        "task_text": "차량의 앞, 뒤 유리와 옆문 유리를 부착한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "차량의 앞·뒤·옆 유리를 차체에 직접 부착하는 물리적 조립이 중심이라 AI 도움도는 낮음입니다. 정해진 부착위치와 절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T04",
+        "task_short_id": "T04",
+        "task_text": "스프링 완충기, 스태빌라이저 등 현가장치(완충장치)류를 조립한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "스프링 완충기와 스태빌라이저 등 현가장치를 직접 조립하는 생산작업이 중심이라 AI 도움도는 낮음입니다. 정해진 부품구성과 조립절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T05",
+        "task_short_id": "T05",
+        "task_text": "조향기어 및 기타 부품을 조립한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "조향기어와 관련부품을 정해진 위치에 직접 조립하는 작업이 중심이라 AI 도움도는 낮음입니다. 이미 정해진 조립순서와 규격을 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T06",
+        "task_short_id": "T06",
+        "task_text": "디스크 브레이크와 드럼 브레이크 등 제동장치를 조립한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "디스크·드럼 브레이크 등 제동장치를 직접 조립하는 작업이 중심이라 AI 도움도는 낮음입니다. 정해진 공정과 부품배치를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T07",
+        "task_short_id": "T07",
+        "task_text": "엔진과 변속기를 차체의 엔진룸(engine room)의 연결부에 조립한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "엔진과 변속기를 엔진룸 연결부에 직접 조립하는 물리적 작업이 중심이라 AI 도움도는 낮음입니다. 정해진 장착위치와 절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T08",
+        "task_short_id": "T08",
+        "task_text": "배기관, 머플러 등의 배기장치를 조립한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "배기관과 머플러 등 배기장치를 차체에 직접 조립하는 작업이 중심이라 AI 도움도는 낮음입니다. 정해진 부품구성과 설치절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T09",
+        "task_short_id": "T09",
+        "task_text": "타이어, 앞뒤 범퍼, 전조등, 제동등 등 외장 부품을 조립한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "타이어·범퍼·전조등·제동등 등 외장부품을 직접 조립하는 생산작업이 중심이라 AI 도움도는 낮음입니다. 정해진 조립위치와 절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T10",
+        "task_short_id": "T10",
+        "task_text": "운전석과 조수석 등 내부 의자를 조립한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "운전석·조수석 등 내부의자를 직접 장착하는 조립작업이 중심이라 AI 도움도는 낮음입니다. 지정된 위치와 고정절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T11",
+        "task_short_id": "T11",
+        "task_text": "조립이 완료 후 브레이크 오일, 냉각수, 엔진오일, 가솔린 등을 주입하여 주행 가능한 상태로 마무리한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "브레이크오일·냉각수·엔진오일·연료를 정해진 양만큼 직접 주입하는 마무리작업이 중심이라 AI 도움도는 낮음입니다. 이미 정해진 주입항목과 절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000007548-T12",
+        "task_short_id": "T12",
+        "task_text": "완성된 차량을 검사장으로 이동시킨다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "완성차량을 검사장으로 직접 이동시키는 운반업무가 중심이라 AI 도움도는 낮음입니다. 정해진 이동절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      }
+    ]
+  },
+  "lineage": {
+    "narrative_contract": "FINAL_REPORT_NARRATIVE_OUTPUT_V1_1",
+    "batch": "BATCH4_FINAL_REMAINDER",
+    "narrative_render_mode": "EXACT_TEXT",
+    "cursor_may_rewrite": false,
+    "source": "data/final_report_narrative_v1/packages/BATCH4_NARRATIVE_PRODUCTION_PACKAGE_V1/occupations/K000007548.narrative-output-v1_1.json"
+  }
+}

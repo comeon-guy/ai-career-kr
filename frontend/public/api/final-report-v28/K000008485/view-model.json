@@ -1,0 +1,236 @@
+{
+  "view_model_id": "FINAL_REPORT_VIEW_MODEL_V28",
+  "jobCd": "K000008485",
+  "occupation_name": "경량철골공(석고보드공, 텍스공, 조립주택건립원)",
+  "current_work_summary": "경량철골을 사용하여 건물내부에 천장틀이나 경량벽체틀을 설치하고 합판, 무늬판, 석고보드 등을 시공하여 천정이나 경량벽체를 설치합니다. 주요 업무에는 천장틀 구성재 설치·고정, 치수·중심·수평 기준 맞춤, 설비 설치를 위한 간단한 용접가 포함됩니다.",
+  "section_01": {
+    "title": "AI 시대의 역할 변화",
+    "narrative": "업무가 AI 도움도와 사람 판단 중요도가 모두 낮은 직접 설치에 거의 몰려 있어, 경량철골공의 핵심은 AI보다 현장에서 절단·고정·부착하는 작업에 있습니다.\n\n석고보드의 수평과 부착상태를 확인하는 일은 AI가 일부 보조할 수 있습니다.\n\n반면 철골을 절단해 천장틀을 만들고 석고보드·합판을 직접 설치하는 일은 작업자가 현장에서 수행해야 합니다.",
+    "distribution_notes": [
+      {
+        "kind": "주요 분포",
+        "text": "대부분의 업무가 <strong>AI 도움 낮음 × 사람 판단 낮음</strong> 영역에 있습니다 (6/7)."
+      },
+      {
+        "kind": "보조 분포",
+        "text": "나머지 업무는 <strong>AI 도움 낮음 × 사람 판단 중간</strong> 1개입니다."
+      }
+    ],
+    "heatmap_blobs": [
+      {
+        "left": 62.5,
+        "top": 62.5,
+        "width": 39,
+        "height": 28
+      },
+      {
+        "left": 62.5,
+        "top": 62.5,
+        "width": 18.72,
+        "height": 15.12
+      },
+      {
+        "left": 37.5,
+        "top": 62.5,
+        "width": 26.56,
+        "height": 19.11
+      },
+      {
+        "left": 29,
+        "top": 62.5,
+        "width": 21.78,
+        "height": 17.58
+      },
+      {
+        "left": 37.5,
+        "top": 55.5,
+        "width": 19.12,
+        "height": 15.67
+      },
+      {
+        "left": 37.5,
+        "top": 62.5,
+        "width": 12.75,
+        "height": 10.32
+      },
+      {
+        "left": 25,
+        "top": 62.5,
+        "width": 38,
+        "height": 16
+      }
+    ],
+    "combinations": {
+      "L/L": 6,
+      "L/M": 1
+    }
+  },
+  "section_02": {
+    "title": "업무 가치 변화",
+    "left_heading": "직접 경량철골·석고보드 설치 중심이라 구체적 AI 역할이 확인되지 않는 업무",
+    "right_heading": "철골·보드를 직접 절단·설치·고정하고 천장틀을 시공하는 역할",
+    "left_items": [],
+    "right_items": [
+      {
+        "title": "달대와 천장틀을 직접 설치하기",
+        "description": "천장 앵커와 경량철골을 실제 위치에 맞춰 설치·고정해야 합니다."
+      },
+      {
+        "title": "경량철골을 규격에 맞게 직접 절단하기",
+        "description": "절단기를 사용해 필요한 치수로 철골을 가공해야 합니다."
+      },
+      {
+        "title": "석고보드·합판을 직접 부착·고정하기",
+        "description": "수평과 이음새 위치를 보며 보드와 합판을 실제로 설치해야 합니다."
+      },
+      {
+        "title": "환기통·전기기구 설치를 위한 용접을 수행하기",
+        "description": "필요한 위치에서 간단한 용접을 직접 수행해야 합니다."
+      }
+    ],
+    "left_notes": [
+      {
+        "label": "왜 카드가 없나",
+        "text": "7개 Task가 모두 AI_AUGMENTATION=L이며 철골·보드·공구를 직접 다루는 물리작업이라 구체적인 AI 역할을 만들 근거가 없습니다."
+      },
+      {
+        "label": "해석 원칙",
+        "text": "AI 역할을 억지로 추가하지 않고 원문에 나타난 절단·설치·고정 중심의 직무구조를 그대로 반영했습니다."
+      }
+    ],
+    "right_notes": [
+      {
+        "label": "사람에게 남는 이유",
+        "text": "경량철골공은 실제 천장·철골·보드의 수평과 위치를 보며 공구로 절단·고정해야 합니다."
+      },
+      {
+        "label": "변화의 핵심",
+        "text": "현재 Task 기준으로는 AI보다 사람의 직접 시공·고정·마감이 직무의 중심입니다."
+      }
+    ]
+  },
+  "section_03": {
+    "title": "앞으로 중요한 경쟁력",
+    "intro": "현재 Task 기준으로는 AI보다 사람의 직접 시공·고정·마감이 직무의 중심입니다. 따라서 AI 활용 자체보다 정해진 절차와 도구를 정확하게 다루어 작업을 완성하는 현장 수행력이 경쟁력의 중심으로 남습니다.",
+    "items": [
+      {
+        "title": "달대와 천장틀을 직접 설치하는 수행력",
+        "description": "현재 확인된 업무에서는 AI 지원보다 직접 수행이 중심입니다. 천장 앵커와 경량철골을 실제 위치에 맞춰 설치·고정해야 합니다."
+      },
+      {
+        "title": "석고보드·합판을 직접 부착·고정하는 능력",
+        "description": "현재 확인된 업무에서는 AI 지원보다 직접 수행이 중심입니다. 수평과 이음새 위치를 보며 보드와 합판을 실제로 설치해야 합니다."
+      },
+      {
+        "title": "환기통·전기기구 설치를 위한 용접을 수행하는 수행력",
+        "description": "현재 확인된 업무에서는 AI 지원보다 직접 수행이 중심입니다. 필요한 위치에서 간단한 용접을 직접 수행해야 합니다."
+      }
+    ]
+  },
+  "section_04": {
+    "title": "AI를 활용하는 방식",
+    "competencies": [
+      {
+        "display_name": "문제를 제대로 파악하기",
+        "definition": "업무에서 무엇을 해결해야 하는지 제대로 파악하는 힘",
+        "occupation_manifestation": "치수·중심·수평 기준 맞춤, 천장틀 구성재 설치·고정처럼 서로 다른 업무에서 무엇을 확인하고 수행해야 하는지 구분합니다."
+      },
+      {
+        "display_name": "AI와 사람의 역할 나누기",
+        "definition": "AI에 맡길 일과 사람이 직접 판단할 일을 나누는 힘",
+        "occupation_manifestation": "치수·중심·수평 기준 맞춤에서 AI가 보조할 부분과 사람이 직접 판단하거나 수행할 부분을 나눕니다."
+      },
+      {
+        "display_name": "근거를 확인하고 따져보기",
+        "definition": "자료를 확인하고 근거가 맞는지 따져보는 힘",
+        "occupation_manifestation": "현재 업무 설명에는 자료의 근거를 따져보는 행위가 구체적으로 제시되지 않아, 이 역량의 발현을 더 좁혀 설명하지 않습니다."
+      },
+      {
+        "display_name": "AI를 어떻게 활용할지 정하기",
+        "definition": "업무 목적에 맞게 AI를 어떻게 활용할지 정하는 힘",
+        "occupation_manifestation": "치수·중심·수평 기준 맞춤에서 AI가 도움을 줄 수 있는 범위를 정하고, 사람이 직접 확인하거나 수행할 부분을 남깁니다."
+      },
+      {
+        "display_name": "결과를 확인하고 고치기",
+        "definition": "나온 결과를 확인하고 틀린 점·빠진 점을 고치는 힘",
+        "occupation_manifestation": "현재 업무 설명에는 결과를 확인하고 고치는 행위가 구체적으로 제시되지 않아, 이 역량의 발현을 더 좁혀 설명하지 않습니다."
+      },
+      {
+        "display_name": "변수가 생기면 다시 판단하기",
+        "definition": "예상과 다른 상황이 생기면 판단과 대응을 다시 조정하는 힘",
+        "occupation_manifestation": "현재 업무 설명에는 상황 변화에 따라 판단을 다시 조정하는 행위가 구체적으로 제시되지 않아, 이 역량의 발현을 더 좁혀 설명하지 않습니다."
+      }
+    ],
+    "cta": {
+      "title": "나는 업무에 AI를 얼마나 잘 활용할 수 있나",
+      "text": "이 직무의 문제를 AI를 활용해 직접 해결해보고, 나의 AI 활용 역량을 진단받아 보세요."
+    }
+  },
+  "reference": {
+    "tasks": [
+      {
+        "task_id": "K000008485-T01",
+        "task_short_id": "T01",
+        "task_text": "콘크리트 타설 전에 매립한 천장틀 앵커인서트(anchor insert)에 천장으로부터 일정 간격 떨어져서 격자로 달대(반자틀을 위에서 달아 매는 세로 재)를 설치한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "천장틀 앵커인서트에 달대를 일정간격으로 직접 설치하는 시공작업이 중심이라 AI 도움도는 낮음입니다. 정해진 간격과 배치에 따라 수행하는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000008485-T02",
+        "task_short_id": "T02",
+        "task_text": "절단기를 사용하여 경량철골을 치수에 맞도록 절단한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "절단기로 경량철골을 정해진 치수에 맞게 직접 자르는 작업이 중심이라 AI 도움도는 낮음입니다. 지정치수와 절단절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000008485-T03",
+        "task_short_id": "T03",
+        "task_text": "아연 도금된 M형 금속막대(M-bar)를 찬넬크립으로 견고하게 고정시켜 천장틀을 시공한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "M형 금속막대를 찬넬크립으로 직접 고정해 천장틀을 만드는 시공이 중심이라 AI 도움도는 낮음입니다. 정해진 고정위치와 조립절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000008485-T04",
+        "task_short_id": "T04",
+        "task_text": "석고보드를 M형 금속막대의 중심이 되게 붙이고, 이음새가 M형 금속막대의 중심에 오게 한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "석고보드를 M형 금속막대 중심에 맞춰 직접 부착하는 작업이 중심이라 AI 도움도는 낮음입니다. 지정된 이음위치와 부착절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000008485-T05",
+        "task_short_id": "T05",
+        "task_text": "석고보드는 M형 금속막대에 수평을 맞추고, 나사못의 머리는 보드표면보다 약간 들어가게 부착한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "M",
+        "interpretation": "석고보드를 수평에 맞춰 직접 부착하는 물리적 작업이 중심이라 AI 도움도는 낮음입니다. 수평과 나사못 깊이를 확인하며 마감상태를 조정해야 하므로 사람 판단 중요도는 중간입니다."
+      },
+      {
+        "task_id": "K000008485-T06",
+        "task_short_id": "T06",
+        "task_text": "설치된 천장틀에 합판, 무늬목, 석고보드를 올려 설치하고 못, 나사로 고정시킨다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "천장틀에 합판·무늬목·석고보드를 직접 올리고 못·나사로 고정하는 시공이 중심이라 AI 도움도는 낮음입니다. 정해진 설치순서와 고정방식을 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      },
+      {
+        "task_id": "K000008485-T07",
+        "task_short_id": "T07",
+        "task_text": "환기통, 전기기구를 설치하기 위해 간단한 용접을 하기도 한다.",
+        "AI_AUGMENTATION": "L",
+        "HUMAN_JUDGMENT": "L",
+        "interpretation": "환기통·전기기구 설치를 위해 직접 간단한 용접을 수행하는 현장작업이 중심이라 AI 도움도는 낮음입니다. 정해진 설치·용접절차를 따르는 비중이 커 사람 판단 중요도는 낮음입니다."
+      }
+    ]
+  },
+  "lineage": {
+    "narrative_contract": "FINAL_REPORT_NARRATIVE_OUTPUT_V1_1",
+    "batch": "BATCH4_FINAL_REMAINDER",
+    "narrative_render_mode": "EXACT_TEXT",
+    "cursor_may_rewrite": false,
+    "source": "data/final_report_narrative_v1/packages/BATCH4_NARRATIVE_PRODUCTION_PACKAGE_V1/occupations/K000008485.narrative-output-v1_1.json"
+  }
+}

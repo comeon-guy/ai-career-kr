@@ -1,0 +1,268 @@
+/* 분석 리포트 — semantic typography hierarchy (Report Typography Normalization v1)
+ * Tokens live on .er-root / report shells so landing --fc-text-* stays untouched.
+ */
+
+.er-root,
+.report-integrated-root,
+.report-view-wrap,
+.report-view-scroll,
+.report-view-modal,
+.report-viewer {
+  /* —— sizes (desktop) —— */
+  --report-title-size: 36px;
+  --report-hero-title-size: 26px;
+  --report-section-title-size: 28px;
+  --report-scenario-title-size: 22px;
+  --report-subsection-title-size: 20px;
+  --report-step-title-size: 16.5px;
+  --report-takeaway-title-size: 17.5px;
+  --report-label-size: 13.5px;
+  --report-body-size: 15px;
+  --report-supporting-size: 13px;
+  --report-meta-size: 12.5px;
+  --report-section-no-size: 13.5px;
+  --report-step-no-size: 15px;
+  --report-score-size: 32px;
+  --report-score-denom-size: 13.5px;
+  --report-selector-title-size: 14px;
+  --report-selector-subtitle-size: 12.5px;
+  --report-framework-name-size: 15.5px;
+  --report-framework-group-size: 14px;
+
+  /* —— weights —— */
+  --report-fw-title: 800;
+  --report-fw-display: 750;
+  --report-fw-subsection: 700;
+  --report-fw-step: 700;
+  --report-fw-label: 650;
+  --report-fw-body: 450;
+  --report-fw-supporting: 450;
+  --report-fw-meta: 500;
+  --report-fw-emphasis: 650;
+
+  /* —— line-height —— */
+  --report-lh-title: 1.18;
+  --report-lh-display: 1.3;
+  --report-lh-scenario: 1.4;
+  --report-lh-subsection: 1.4;
+  --report-lh-step: 1.4;
+  --report-lh-label: 1.4;
+  --report-lh-body: 1.7;
+  --report-lh-supporting: 1.6;
+  --report-lh-meta: 1.4;
+
+  /* —— letter-spacing —— */
+  --report-tracking-title: -0.02em;
+  --report-tracking-display: -0.02em;
+  --report-tracking-body: 0;
+
+  /* —— color roles (restrained) —— */
+  --report-ink: var(--er-ink, #111827);
+  --report-ink-2: #33415a;
+  --report-muted: #667085;
+  --report-blue: var(--er-blue, var(--fc-v5-blue, #1d5fd0));
+
+  /* —— spacing tied to hierarchy —— */
+  --report-space-section: 92px;
+  --report-space-scenario: 28px;
+  --report-space-subsection: 18px;
+  --report-space-step: 10px;
+}
+
+@media (max-width: 760px) {
+  .er-root,
+  .report-integrated-root,
+  .report-view-wrap,
+  .report-view-scroll,
+  .report-view-modal,
+  .report-viewer {
+    --report-title-size: 31px;
+    --report-hero-title-size: 22px;
+    --report-section-title-size: 23.5px;
+    --report-scenario-title-size: 19.5px;
+    --report-subsection-title-size: 17.5px;
+    --report-step-title-size: 16px;
+    --report-takeaway-title-size: 16.5px;
+    --report-label-size: 13px;
+    --report-body-size: 14.5px;
+    --report-supporting-size: 12.5px;
+    --report-meta-size: 12px;
+    --report-score-size: 30px;
+    --report-framework-name-size: 15px;
+  }
+}
+
+/* —— semantic utility classes —— */
+.report-title {
+  font-size: var(--report-title-size);
+  font-weight: var(--report-fw-title);
+  line-height: var(--report-lh-title);
+  letter-spacing: var(--report-tracking-title);
+  color: var(--report-ink);
+}
+
+.report-hero-title {
+  font-size: var(--report-hero-title-size);
+  font-weight: var(--report-fw-display);
+  line-height: var(--report-lh-display);
+  letter-spacing: var(--report-tracking-display);
+  color: var(--report-ink);
+}
+
+.report-section-title {
+  font-size: var(--report-section-title-size);
+  font-weight: var(--report-fw-display);
+  line-height: var(--report-lh-display);
+  letter-spacing: var(--report-tracking-display);
+  color: var(--report-ink);
+}
+
+.report-scenario-title {
+  font-size: var(--report-scenario-title-size);
+  font-weight: var(--report-fw-display);
+  line-height: var(--report-lh-scenario);
+  letter-spacing: var(--report-tracking-display);
+  color: var(--report-ink);
+}
+
+.report-subsection-title {
+  font-size: var(--report-subsection-title-size);
+  font-weight: var(--report-fw-subsection);
+  line-height: var(--report-lh-subsection);
+  letter-spacing: var(--report-tracking-display);
+  color: var(--report-ink);
+}
+
+.report-step-title {
+  font-size: var(--report-step-title-size);
+  font-weight: var(--report-fw-step);
+  line-height: var(--report-lh-step);
+  letter-spacing: var(--report-tracking-display);
+  color: var(--report-ink);
+}
+
+.report-label {
+  font-size: var(--report-label-size);
+  font-weight: var(--report-fw-label);
+  line-height: var(--report-lh-label);
+  color: var(--report-ink);
+}
+
+.report-body {
+  font-size: var(--report-body-size);
+  font-weight: var(--report-fw-body);
+  line-height: var(--report-lh-body);
+  letter-spacing: var(--report-tracking-body);
+  color: var(--report-ink-2);
+}
+
+.report-supporting {
+  font-size: var(--report-supporting-size);
+  font-weight: var(--report-fw-supporting);
+  line-height: var(--report-lh-supporting);
+  color: var(--report-muted);
+}
+
+.report-meta {
+  font-size: var(--report-meta-size);
+  font-weight: var(--report-fw-meta);
+  line-height: var(--report-lh-meta);
+  color: var(--report-muted);
+}
+
+.report-section-no,
+.report-view-toc__num {
+  font-size: var(--report-section-no-size);
+  font-weight: var(--report-fw-subsection);
+  line-height: 1;
+  letter-spacing: 0.04em;
+  color: var(--report-blue);
+}
+
+.report-step-no {
+  font-size: var(--report-step-no-size);
+  font-weight: var(--report-fw-display);
+  line-height: 1.1;
+  color: var(--report-blue);
+}
+
+.report-score {
+  font-size: var(--report-score-size);
+  font-weight: var(--report-fw-display);
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+.report-score-denom {
+  font-size: var(--report-score-denom-size);
+  font-weight: var(--report-fw-meta);
+  line-height: 1;
+}
+
+/* Baseline family/smoothing for report shells */
+.report-integrated-root,
+.report-view-wrap,
+.report-view-overlay,
+.report-view-scroll__main,
+.er-root {
+  font-family: var(--naim-font-family, var(--fc-font));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.report-integrated-root {
+  font-weight: var(--naim-fw-body, 500);
+  letter-spacing: var(--naim-tracking-body, -0.01em);
+  color: var(--naim-ink, var(--fc-ink));
+}
+
+.report-integrated-root :is(h1, h2, h3, h4, .summary-v2-heading, .summary-v2-heading__text) {
+  letter-spacing: var(--report-tracking-display);
+}
+
+.report-integrated-root .guide-section__title {
+  font-weight: var(--naim-fw-semibold, 600);
+  letter-spacing: var(--naim-tracking-heading, -0.02em);
+}
+
+.report-integrated-root .guide-section__sub {
+  font-weight: var(--naim-fw-body, 500);
+  letter-spacing: var(--naim-tracking-body, -0.01em);
+}
+
+.report-integrated-root .guide-btn-pill {
+  font-weight: var(--naim-fw-ui, 560);
+  letter-spacing: var(--naim-tracking-ui, -0.012em);
+}
+
+.report-view-title-block h2 {
+  font-weight: var(--naim-fw-semibold, 600);
+  letter-spacing: var(--naim-tracking-heading, -0.02em);
+}
+
+.report-view-title-block p {
+  color: var(--naim-muted, #64748b);
+  font-weight: var(--naim-fw-body, 500);
+  letter-spacing: var(--naim-tracking-body, -0.01em);
+}
+
+.report-view-toc__item {
+  font-weight: var(--naim-fw-ui, 560);
+  letter-spacing: var(--naim-tracking-ui, -0.012em);
+}
+
+.report-inline-floating-header__title {
+  font-weight: var(--naim-fw-semibold, 600);
+  letter-spacing: var(--naim-tracking-heading, -0.02em);
+}
+
+.report-loading-panel__title {
+  font-weight: var(--naim-fw-semibold, 600);
+  letter-spacing: var(--naim-tracking-heading, -0.02em);
+}
+
+.report-loading-panel__hint {
+  color: var(--naim-muted, #64748b);
+  font-weight: var(--naim-fw-body, 500);
+  letter-spacing: var(--naim-tracking-body, -0.01em);
+}

@@ -1,0 +1,345 @@
+/* Evidence traceability ??minimal affordance; collapsed = invisible layout shift */
+
+.ev-trace {
+  margin-top: 8px;
+}
+
+.ev-trace--end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.ev-trace--inline {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.ev-trace__toggle {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: var(--report-meta-size, 12.5px);
+  font-weight: 650;
+  color: #667085;
+  cursor: pointer;
+  text-align: left;
+  line-height: 1.35;
+}
+
+.ev-trace__toggle:hover,
+.ev-trace__toggle:focus-visible {
+  color: #344054;
+  outline: none;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.ev-trace__chev {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  transition: transform 0.15s ease;
+}
+
+.ev-trace__panel {
+  margin-top: 10px;
+  padding: 12px 14px;
+  border: 1px solid #eaecf0;
+  border-radius: 8px;
+  background: #fafbfc;
+  font-size: var(--report-meta-size, 12.5px);
+  line-height: 1.5;
+  color: #475467;
+  max-width: 100%;
+}
+
+.ev-trace__provenance {
+  display: inline-block;
+  margin-bottom: 6px;
+  font-size: var(--report-meta-size, 12.5px);
+  font-weight: 750;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #98a2b3;
+}
+
+.ev-trace__lines {
+  margin: 0;
+  padding-left: 1.1em;
+}
+
+.ev-trace__lines li + li {
+  margin-top: 4px;
+}
+
+.ev-trace__block + .ev-trace__block {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #edf0f3;
+}
+
+.ev-trace__empty,
+.ev-trace__warn {
+  margin: 0;
+  font-size: var(--report-meta-size, 12.5px);
+  color: #98a2b3;
+}
+
+.ev-trace__warn {
+  color: #b54708;
+}
+
+.ev-trust__method-link {
+  display: inline-block;
+  margin-top: 12px;
+  font-size: var(--report-meta-size, 12.5px);
+  font-weight: 700;
+  color: #3558d4;
+  text-decoration: none;
+}
+
+.ev-trust__method-link:hover,
+.ev-trust__method-link:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  outline: none;
+}
+
+.ev-trust__text + .ev-trust__method-link {
+  margin-top: 10px;
+}
+
+.ev-trace__tasks {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.ev-trace__task-row {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #edf0f3;
+}
+
+.ev-trace__task-row:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.ev-trace__task-title {
+  font-weight: 700;
+  color: #344054;
+  font-size: var(--report-meta-size, 12.5px);
+}
+
+.ev-trace__task-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  margin-top: 4px;
+  font-size: var(--report-meta-size, 12.5px);
+  color: #667085;
+}
+
+.ev-trace__task-reason {
+  margin: 6px 0 0;
+  font-size: var(--report-meta-size, 12.5px);
+  color: #667085;
+}
+
+.ev-trace__refs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.ev-trace__ref {
+  font-size: var(--report-meta-size, 12.5px);
+  color: #98a2b3;
+}
+
+.ev-trace__more {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  font-size: var(--report-meta-size, 12.5px);
+  font-weight: 650;
+  color: #667085;
+  cursor: pointer;
+  text-align: left;
+}
+
+.ev-trace__more:hover {
+  color: #344054;
+  text-decoration: underline;
+}
+
+.er-position-scores .ev-trace {
+  margin-top: 4px;
+}
+
+.er-map-score .ev-trace {
+  grid-column: 1 / -1;
+}
+
+.er-hero-summary-wrap .ev-trace {
+  margin-top: 10px;
+}
+
+.shift .ev-trace {
+  margin-top: 12px;
+}
+
+.shift-note + .ev-trace {
+  margin-top: 8px;
+}
+
+.ws-section-head-tools {
+  margin-top: 6px;
+}
+
+.section4-scan-card__intro .ev-trace {
+  margin-top: 8px;
+}
+
+.ev-brief {
+  font-size: var(--report-meta-size, 12.5px);
+  line-height: 1.55;
+  color: #475467;
+}
+
+.ev-brief__heading {
+  margin: 0 0 6px;
+  font-size: var(--report-meta-size, 12.5px);
+  font-weight: 750;
+  color: #344054;
+}
+
+.ev-brief__why {
+  margin: 0 0 14px;
+}
+
+.ev-brief__signals {
+  margin: 0 0 12px;
+  padding-left: 1.15em;
+}
+
+.ev-brief__signals li + li {
+  margin-top: 6px;
+}
+
+.ev-brief__disclaimer {
+  margin: 0 0 10px;
+  font-size: var(--report-meta-size, 12.5px);
+  color: #98a2b3;
+}
+
+.ev-brief__insufficient {
+  margin: 0 0 10px;
+  font-size: var(--report-meta-size, 12.5px);
+  color: #667085;
+}
+
+.ev-brief__raw-toggle {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: var(--report-meta-size, 12.5px);
+  font-weight: 650;
+  color: #667085;
+  cursor: pointer;
+  margin-top: 4px;
+}
+
+.ev-brief__raw-toggle:hover {
+  color: #344054;
+  text-decoration: underline;
+}
+
+.ev-brief__raw-chev {
+  width: 12px;
+  height: 12px;
+}
+
+.ev-trace__raw {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #edf0f3;
+}
+
+.ev-trace__raw-row {
+  padding: 10px 0;
+  border-bottom: 1px solid #edf0f3;
+}
+
+.ev-trace__raw-row:last-child {
+  border-bottom: 0;
+}
+
+.ev-trace__raw-title {
+  font-weight: 650;
+  color: #344054;
+}
+
+.ev-trace__raw-en {
+  margin-top: 4px;
+  font-size: var(--report-meta-size, 12.5px);
+  color: #98a2b3;
+}
+
+.ev-trace__raw-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  margin-top: 6px;
+  font-size: var(--report-meta-size, 12.5px);
+  color: #667085;
+}
+
+.ev-trace--method {
+  margin-top: 16px;
+}
+
+.ev-trust__text {
+  margin: 0;
+  font-size: var(--report-meta-size, 12.5px);
+  line-height: 1.55;
+  color: #475467;
+}
+
+.ev-trust-method__coverage {
+  margin: 0 0 10px;
+  font-size: var(--report-meta-size, 12.5px);
+  font-weight: 750;
+  color: #344054;
+}
+
+.ev-trust-method__core {
+  margin: 0 0 14px;
+  font-size: var(--report-meta-size, 12.5px);
+  line-height: 1.55;
+  color: #475467;
+}
+
+.ev-trust-method__block + .ev-trust-method__block {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #edf0f3;
+}
+
+.ev-trust-method__title {
+  margin: 0 0 6px;
+  font-size: var(--report-meta-size, 12.5px);
+  font-weight: 750;
+  color: #344054;
+}

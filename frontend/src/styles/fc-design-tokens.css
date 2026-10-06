@@ -1,0 +1,133 @@
+/* Shared Future Competitiveness design tokens — landing + report */
+:root {
+  --fc-bg: #ffffff;
+  --fc-ink: #12161c;
+  --fc-ink-2: #2b3038;
+  --fc-muted: #687384;
+  --fc-subtle: #929baa;
+  --fc-line: #e7eaf0;
+  --fc-line-strong: #d7dce4;
+  --fc-accent: #2f5bea;
+  --fc-accent-soft: #f3f6ff;
+  --fc-blue: #3558d4;
+  --fc-blue-soft: #687fd1;
+  --fc-green: #39725f;
+  --fc-red: #a34949;
+  --fc-orange: #9b5b2d;
+  --fc-header-h: 64px;
+  --fc-btn-h: 34px;
+  --fc-search-h: 64px;
+  --fc-max: 1280px;
+  --fc-page-max: 1240px;
+  --fc-report-max: 1280px;
+  --fc-report-wide: 1280px;
+  --fc-prose-max: 940px;
+  /* Available report content width — narrative uses full column (no fixed reading clamp). */
+  --fc-narrative-measure-basis: 100%;
+  --fc-narrative-measure: 100%;
+  --fc-v5-red: #c83f33;
+  --fc-v5-blue: #1d5fd0;
+  --fc-red-accent: #c83f33;
+  --fc-v5-line2: #edf1f5;
+  --fc-pad: 34px;
+  --fc-font: Inter, "Noto Sans KR", "Pretendard Variable", Pretendard, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --fc-space-section: 92px;
+  --fc-space-block: 40px;
+  --fc-space-item: 14px;
+  --fc-text-hero: 52px;
+  --fc-text-page: 36px;
+  --fc-text-section: 31px;
+  --fc-text-subsection: 19px;
+  --fc-text-body: 16px;
+  --fc-text-secondary: 15px;
+  --fc-text-utility: 13px;
+  --fc-space-1: 8px;
+  --fc-space-2: 14px;
+  --fc-space-3: 22px;
+  --fc-space-4: 32px;
+  --fc-space-5: 48px;
+  --fc-space-6: 72px;
+  --fc-space-7: 92px;
+  --fc-radius: 0px;
+  --fc-radius-sm: 5px;
+}
+
+.fc-app,
+.fc-app * {
+  box-sizing: border-box;
+}
+
+.fc-app {
+  min-height: 100vh;
+  background: var(--fc-bg);
+  color: var(--fc-ink);
+  font-family: var(--fc-font);
+  line-height: 1.55;
+  letter-spacing: -0.015em;
+  word-break: keep-all;
+  overflow-wrap: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+.fc-product {
+  min-height: 100vh;
+  background: var(--fc-bg);
+}
+
+.fc-app a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.fc-app button,
+.fc-app input,
+.fc-app textarea {
+  font: inherit;
+}
+
+.fc-shell {
+  max-width: var(--fc-page-max);
+  margin: 0 auto;
+  padding: 0 var(--fc-pad);
+}
+
+.fc-product-main {
+  width: 100%;
+}
+
+.fc-product-main > .my-reports-page,
+.fc-product-main > .report-view-wrap {
+  max-width: var(--fc-page-max);
+  margin: 0 auto;
+  padding: 0 var(--fc-pad) 64px;
+}
+
+/* Match analysis landing .fc-hero padding-top (topbar → title gap) */
+.fc-product-main > .my-reports-page {
+  padding-top: 56px;
+}
+
+.fc-app h1,
+.fc-app h2,
+.fc-app h3,
+.fc-app h4,
+.fc-app p,
+.fc-app li,
+.fc-app label {
+  word-break: keep-all;
+  overflow-wrap: normal;
+}
+
+@media (max-width: 980px) {
+  :root {
+    --fc-pad: 28px;
+  }
+}
+
+@media (max-width: 760px) {
+  :root {
+    --fc-pad: 20px;
+    --fc-search-h: 56px;
+  }
+}

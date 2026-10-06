@@ -1,0 +1,291 @@
+{
+  "view_model_id": "FINAL_REPORT_VIEW_MODEL_V28",
+  "jobCd": "K000000935",
+  "occupation_name": "가축 사육 종사원",
+  "current_work_summary": "조류, 파충류, 모피생산 동물, 가금, 엽조류를 포함하여 소, 양, 돼지, 산양, 말 등과 같은 가축을 번식·사육하며 낙농제품을 생산하는데 필요한 활동을 기획하고 수행합니다.",
+  "section_01": {
+    "title": "AI 시대의 역할 변화",
+    "narrative": "업무 대부분이 AI 도움도와 사람 판단 중요도를 높음·중간·낮음 중 하나로 뚜렷하게 정리하기 어려워, 가축 사육 종사원의 변화 방향을 하나로 단정하기 어렵습니다.\n\n현재 분포에서 구체적으로 확인할 수 있는 일부 업무는 목초 재배를 관리·감독하거나 조랑말 이용을 돕고 관리하는 일이며, 사육·번식 업무 대부분은 변화 방향을 더 강하게 해석하지 않는 것이 적절합니다.",
+    "distribution_notes": [
+      {
+        "kind": "주요 분포",
+        "text": "대부분의 업무가 <strong>AI 도움 경계 × 사람 판단 경계</strong> 영역에 있습니다 (13/15)."
+      },
+      {
+        "kind": "보조 분포",
+        "text": "나머지 업무는 <strong>AI 도움 중간 × 사람 판단 중간</strong> 2개입니다."
+      }
+    ],
+    "heatmap_blobs": [
+      {
+        "left": 87.5,
+        "top": 87.5,
+        "width": 39,
+        "height": 28
+      },
+      {
+        "left": 87.5,
+        "top": 87.5,
+        "width": 18.72,
+        "height": 15.12
+      },
+      {
+        "left": 37.5,
+        "top": 37.5,
+        "width": 26.56,
+        "height": 19.11
+      },
+      {
+        "left": 29,
+        "top": 37.5,
+        "width": 21.78,
+        "height": 17.58
+      },
+      {
+        "left": 37.5,
+        "top": 30.5,
+        "width": 19.12,
+        "height": 15.67
+      },
+      {
+        "left": 37.5,
+        "top": 37.5,
+        "width": 12.75,
+        "height": 10.32
+      }
+    ],
+    "combinations": {
+      "PARTIAL/PARTIAL": 13,
+      "M/M": 2
+    }
+  },
+  "section_02": {
+    "title": "업무 가치 변화",
+    "left_heading": "목초·고객지원 업무에서 정리할 수 있는 정보를 보조하는 역할",
+    "right_heading": "사육·관리와 고객 지원을 현장에서 직접 수행하는 역할",
+    "left_items": [
+      {
+        "title": "목초 재배·관리 업무의 확인사항 정리",
+        "description": "목초재배종사원을 관리·감독하며 목초를 재배·관리할 때 확인해야 할 작업 내용과 관리사항을 정리하는 데 AI를 보조적으로 활용할 수 있습니다."
+      },
+      {
+        "title": "조랑말 이용 지원과 관리사항 정리",
+        "description": "고객의 조랑말 탑승을 돕고 조랑말을 관리할 때 확인할 안내사항과 관리내용을 정리해 현장 업무를 준비할 수 있습니다."
+      }
+    ],
+    "right_items": [
+      {
+        "title": "목초재배 작업자를 감독하고 목초를 관리하기",
+        "description": "목초재배종사원을 관리·감독하고 목초를 실제로 재배·관리하는 일은 현장의 사람 역할로 남습니다."
+      },
+      {
+        "title": "고객의 탑승을 돕고 조랑말을 직접 관리하기",
+        "description": "고객이 조랑말을 탈 수 있도록 돕고 조랑말을 직접 관리하는 수행은 사람이 맡습니다."
+      }
+    ],
+    "left_notes": [
+      {
+        "label": "왜 달라지나",
+        "text": "구체적인 작업이 제시된 목초 관리와 조랑말 관리에서는 AI가 관리사항을 정리하는 보조 역할을 맡을 수 있습니다."
+      },
+      {
+        "label": "그래도 사라지지 않는 이유",
+        "text": "이 직종의 다수 사육 업무는 원문이 넓게 제시되어 AI 역할을 세분화하기 어렵고, 실제 동물 관리와 고객 지원은 현장 수행이 필요합니다."
+      }
+    ],
+    "right_notes": [
+      {
+        "label": "왜 달라지나",
+        "text": "AI가 관리 항목을 정리해도 작업자를 감독하거나 동물을 직접 관리하고 고객을 돕는 행위는 현장에서 이뤄집니다."
+      },
+      {
+        "label": "변화의 핵심",
+        "text": "AI의 역할은 일부 관리정보 정리에 제한되고, 사육·목초 관리·동물 관리처럼 물리적 수행이 필요한 업무의 중심은 사람에게 남습니다."
+      }
+    ]
+  },
+  "section_03": {
+    "title": "앞으로 중요한 경쟁력",
+    "intro": "현재 세부 판정이 가능한 업무가 일부에 그쳐 이 직무의 경쟁력을 넓게 단정하기 어렵습니다. 확인 가능한 업무 기준으로는 목초·사육 환경을 현장에서 관리·감독하는 능력과 동물 상태와 고객 상황에 맞춰 직접 관리하는 현장 수행력이 중요합니다.",
+    "items": [
+      {
+        "title": "목초·사육 환경을 현장에서 관리·감독하는 능력",
+        "description": "AI의 보조를 받을 수 있어도, 목초재배종사원을 관리·감독하고 목초를 실제로 재배·관리하는 일은 현장의 사람 역할로 남습니다."
+      },
+      {
+        "title": "동물 상태와 고객 상황에 맞춰 직접 관리하는 현장 수행력",
+        "description": "AI의 보조를 받을 수 있어도, 고객이 조랑말을 탈 수 있도록 돕고 조랑말의 상태를 직접 살피며 관리할 수 있어야 합니다."
+      }
+    ]
+  },
+  "section_04": {
+    "title": "AI를 활용하는 방식",
+    "competencies": [
+      {
+        "display_name": "문제를 제대로 파악하기",
+        "definition": "업무에서 무엇을 해결해야 하는지 제대로 파악하는 힘",
+        "occupation_manifestation": "목초재배종사원 관리·감독과 목초 관리·고객의 조랑말 탑승 도움과 조랑말 관리처럼 서로 다른 업무에서 무엇을 확인하고 수행해야 하는지 구분합니다."
+      },
+      {
+        "display_name": "AI와 사람의 역할 나누기",
+        "definition": "AI에 맡길 일과 사람이 직접 판단할 일을 나누는 힘",
+        "occupation_manifestation": "AI가 보조할 수 있는 부분과 사람이 직접 판단·조정·수행하는 부분을 구분해 역할을 나눕니다."
+      },
+      {
+        "display_name": "근거를 확인하고 따져보기",
+        "definition": "자료를 확인하고 근거가 맞는지 따져보는 힘",
+        "occupation_manifestation": "현재 업무 원문에는 별도의 근거 확인·검증 행위가 구체적으로 제시되지 않아, 이 역량의 직무별 발현을 더 좁혀 설명하지 않습니다."
+      },
+      {
+        "display_name": "AI를 어떻게 활용할지 정하기",
+        "definition": "업무 목적에 맞게 AI를 어떻게 활용할지 정하는 힘",
+        "occupation_manifestation": "목초재배종사원을 관리·감독하여 목초를 재배하고 관리하는 과업에서는, 관리·감독 대상과 목초 재배·관리 내용을 정리해 보는 지원으로 설명됩니다."
+      },
+      {
+        "display_name": "결과를 확인하고 고치기",
+        "definition": "나온 결과를 확인하고 틀린 점·빠진 점을 고치는 힘",
+        "occupation_manifestation": "현재 업무 원문에는 결과를 별도로 검증하거나 수정하는 행위가 구체적으로 제시되지 않아, 이 역량의 발현을 더 좁혀 설명하지 않습니다."
+      },
+      {
+        "display_name": "변수가 생기면 다시 판단하기",
+        "definition": "예상과 다른 상황이 생기면 판단과 대응을 다시 조정하는 힘",
+        "occupation_manifestation": "현재 업무 원문에는 상황 변화에 따라 판단을 다시 조정하는 행위가 구체적으로 제시되지 않아, 이 역량의 발현을 더 좁혀 설명하지 않습니다."
+      }
+    ],
+    "cta": {
+      "title": "나는 업무에 AI를 얼마나 잘 활용할 수 있나",
+      "text": "이 직무의 문제를 AI를 활용해 직접 해결해보고, 나의 AI 활용 역량을 진단받아 보세요."
+    }
+  },
+  "reference": {
+    "tasks": [
+      {
+        "task_id": "K000000935-T01",
+        "task_short_id": "T01",
+        "task_text": "식용의 고기를 얻기 위하여 돼지를 번식시키고, 사육한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "돼지 번식과 사육이라는 표현은 교배관리, 급이, 위생, 건강관리 등 여러 세부업무를 포괄합니다. 단계마다 AI 지원과 사람 판단 요구가 달라질 수 있어 현재 원문만으로 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T02",
+        "task_short_id": "T02",
+        "task_text": "초식가축에게 풀을 공급하기 위하여 목초지를 재배하고 관리한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "목초지 재배·관리라는 표현은 파종, 생육관리, 수확, 토양관리 등 여러 활동을 포함할 수 있습니다. 세부단계별 AI 지원과 사람 판단 요구가 달라질 수 있어 현재 원문만으로 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T03",
+        "task_short_id": "T03",
+        "task_text": "초식가축에게 조사료로 풀을 공급하기 위하여 목초재배종사원을 관리·감독하여 목초를 재배하고 관리한다.",
+        "AI_AUGMENTATION": "M",
+        "HUMAN_JUDGMENT": "M",
+        "interpretation": "목초 생산자료와 작업계획 정리는 AI가 도울 수 있지만 작업자를 실제 관리·감독하고 재배상태를 확인해야 하므로 AI 도움도는 중간입니다. 정해진 재배계획 안에서 작업상태를 확인하고 조정하는 정도의 판단이 필요해 사람 판단 중요도는 중간입니다."
+      },
+      {
+        "task_id": "K000000935-T04",
+        "task_short_id": "T04",
+        "task_text": "유원지, 공원, 관광농원, 관광지 등에서 고객이 조랑말 타는 것을 돕고 조랑말을 관리한다.",
+        "AI_AUGMENTATION": "M",
+        "HUMAN_JUDGMENT": "M",
+        "interpretation": "고객과 조랑말 상태정보 정리는 AI가 일부 도울 수 있지만 실제 승마보조와 동물관리는 현장에서 직접 해야 하므로 AI 도움도는 중간입니다. 고객안전과 조랑말 상태를 보며 제한적으로 조정해야 하므로 사람 판단 중요도는 중간입니다."
+      },
+      {
+        "task_id": "K000000935-T05",
+        "task_short_id": "T05",
+        "task_text": "고기를 얻기 위하여 닭을 사육한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "닭 사육이라는 표현만으로는 급이, 환경관리, 건강관리, 출하 등 어떤 단계가 중심인지 특정되지 않습니다. 세부업무마다 AI 지원과 사람 판단 요구가 달라질 수 있어 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T06",
+        "task_short_id": "T06",
+        "task_text": "알이나 고기를 생산하기 위하여 닭을 사육하는 양계장에서 다음에 기술된 직무를 수행한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "양계장에서 수행하는 여러 직무를 포괄한다고만 되어 있어 실제 작업단계가 제시되지 않습니다. 세부업무가 특정되지 않아 AI 도움도와 사람 판단 중요도를 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T07",
+        "task_short_id": "T07",
+        "task_text": "양모 및 고기를 생산하기 위하여 양을 번식시키고 사육한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "양 번식·사육은 교배, 급이, 위생, 건강관리 등 다양한 활동을 포함할 수 있습니다. 단계별로 AI 지원과 사람 판단 요구가 달라 현재 원문만으로 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T08",
+        "task_short_id": "T08",
+        "task_text": "식용의 고기나 털을 얻기 위하여 오리를 번식하고 사육한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "오리 번식·사육은 번식관리, 사료, 환경, 건강관리 등 여러 작업을 포함할 수 있습니다. 세부단계가 특정되지 않아 AI 도움도와 사람 판단 중요도를 하나로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T09",
+        "task_short_id": "T09",
+        "task_text": "식용의 고기와 가죽을 얻기 위하여 소를 사육·번식하는 육우목장에서 육우사육사를 보조한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "육우사육사 보조라는 설명만으로는 실제로 어떤 사육행동을 담당하는지 충분히 특정되지 않습니다. 담당업무에 따라 두 축 수준이 달라질 수 있어 현재 원문만으로 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T10",
+        "task_short_id": "T10",
+        "task_text": "식용의 고기와 가죽을 얻기 위하여 육용 소를 번식시키고 사육한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "육용 소의 번식·사육은 번식관리, 급이, 위생, 건강관리 등 다양한 세부업무를 포함합니다. 세부단계별 특성이 달라 현재 원문만으로 두 축을 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T11",
+        "task_short_id": "T11",
+        "task_text": "청초, 건초, 사일리지(silage) 등 자급사료를 생산하기 위하여 사료재배지를 관리한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "사료재배지 관리에는 파종·생육·수확·토양관리 등 여러 단계가 포함될 수 있습니다. 어떤 단계가 중심인지 제시되지 않아 AI 지원과 사람 판단 수준을 하나로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T12",
+        "task_short_id": "T12",
+        "task_text": "양계를 위하여 종계를 번식시키고 사육한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "종계 번식·사육은 교배관리, 급이, 환경관리, 건강관리 등 여러 활동을 포괄합니다. 세부업무별 특성이 달라 현재 원문만으로 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T13",
+        "task_short_id": "T13",
+        "task_text": "우량품종의 돼지로 개량하기 위하여 종돈을 관리하고 사육한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "종돈 관리·사육은 번식선발, 급이, 위생, 건강관리 등 서로 다른 활동을 포함할 수 있습니다. 세부단계가 특정되지 않아 두 축을 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T14",
+        "task_short_id": "T14",
+        "task_text": "계란을 생산하기 위하여 닭을 사육한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "계란 생산을 위한 닭 사육은 급이, 환경·위생, 산란관리 등 여러 세부업무를 포함합니다. 각 단계의 AI 지원과 사람 판단 요구가 달라 하나의 수준으로 정하기 어렵습니다."
+      },
+      {
+        "task_id": "K000000935-T15",
+        "task_short_id": "T15",
+        "task_text": "고기를 얻기 위하여 토끼를 번식시키고 사육한다.",
+        "AI_AUGMENTATION": "PARTIAL",
+        "HUMAN_JUDGMENT": "PARTIAL",
+        "interpretation": "토끼 번식·사육은 교배, 급이, 위생, 건강관리 등 여러 작업을 포함할 수 있습니다. 세부단계가 특정되지 않아 AI 도움도와 사람 판단 중요도를 하나로 정하기 어렵습니다."
+      }
+    ]
+  },
+  "lineage": {
+    "narrative_contract": "FINAL_REPORT_NARRATIVE_OUTPUT_V1_1",
+    "batch": "BATCH1",
+    "narrative_render_mode": "EXACT_TEXT",
+    "cursor_may_rewrite": false,
+    "source": "data/final_report_narrative_v1/packages/BATCH1_NARRATIVE_PRODUCTION_PACKAGE_V1/occupations/K000000935.narrative-output-v1_1.json"
+  }
+}

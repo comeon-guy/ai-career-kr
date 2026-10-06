@@ -1,0 +1,141 @@
+/* Position Map v2 — 7-SOC cross-calibration review (not production). */
+
+.pmv2c-root {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.pmv2c-loading {
+  padding: 28px 8px;
+  color: #60708f;
+  font-size: 14px;
+}
+
+.pmv2c-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.pmv2c-toolbar button {
+  border: 1px solid #d5deee;
+  background: #fff;
+  color: #3a4a68;
+  border-radius: 999px;
+  padding: 7px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.pmv2c-toolbar button.is-active {
+  background: #2f6df6;
+  border-color: #2f6df6;
+  color: #fff;
+}
+
+.pmv2c-toolbar-hint {
+  font-size: 12px;
+  color: #60708f;
+}
+
+.pmv2c-layout.position-layout {
+  grid-template-columns: 1fr;
+}
+
+.pmv2c-plot {
+  min-height: 520px;
+}
+
+.pmv2c-quad {
+  white-space: pre-line;
+  line-height: 1.35;
+  font-size: 12px;
+  max-width: 11.5em;
+}
+
+.pmv2c-point-label {
+  fill: #0b1733;
+  font-size: 13px;
+  font-weight: 650;
+  paint-order: stroke;
+  stroke: rgba(255, 255, 255, 0.92);
+  stroke-width: 3px;
+}
+
+.pmv2c-tip-rows {
+  display: grid;
+  gap: 4px;
+  margin-top: 8px;
+  font-size: 12px;
+}
+
+.pmv2c-tip-rows > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.pmv2c-tip-rows span {
+  color: #60708f;
+}
+
+.pmv2c-tip-rows strong {
+  font-variant-numeric: tabular-nums;
+  color: #0b1733;
+}
+
+.pmv2c-table-wrap {
+  overflow-x: auto;
+  border: 1px solid #dfe8f5;
+  border-radius: 14px;
+  background: #fff;
+}
+
+.pmv2c-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.pmv2c-table th,
+.pmv2c-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid #edf2fa;
+}
+
+.pmv2c-table th {
+  text-align: left;
+  color: #60708f;
+  font-weight: 600;
+  background: #f7f9fc;
+}
+
+.pmv2c-table th:not(:first-child),
+.pmv2c-table td.pmv2c-num {
+  text-align: right;
+}
+
+.pmv2c-name {
+  text-align: left;
+  color: #0b1733;
+  font-weight: 600;
+}
+
+.pmv2c-num {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+  color: #1a2b4a;
+}
+
+.pmv2c-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+@media (max-width: 900px) {
+  .pmv2c-plot {
+    min-height: 420px;
+  }
+}

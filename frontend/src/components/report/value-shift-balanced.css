@@ -1,0 +1,161 @@
+/* Value Shift — v5 editorial (future_competitiveness_report_redesign_v5.html) */
+/* .er-content wraps only this section, so :last-child would drop the divider before 03 */
+.er-content > .vs-section.fc-section {
+  padding-top: 92px;
+  padding-bottom: 92px;
+  padding-left: var(--fc-section-title-indent);
+  border-bottom: 1px solid var(--er-line2, var(--fc-v5-line2, #edf1f5));
+  box-sizing: border-box;
+}
+
+/* Section number + title hang into the left gutter; body aligns to title column */
+.er-content > .vs-section.fc-section > .fc-section-head {
+  margin-left: calc(-1 * var(--fc-section-title-indent));
+  width: calc(100% + var(--fc-section-title-indent));
+  max-width: calc(100% + var(--fc-section-title-indent));
+  box-sizing: border-box;
+}
+
+.er-content > .vs-section.fc-section > .fc-section-intro {
+  margin-left: 0;
+}
+
+.shift-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 0;
+  align-items: stretch;
+  border-top: 1px solid var(--fc-line, #dfe5ec);
+  margin-top: 0;
+}
+
+.shift {
+  padding: 28px 34px 0 0;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.shift.up {
+  padding-left: 34px;
+  padding-right: 0;
+  border-left: 1px solid var(--fc-line, #dfe5ec);
+}
+
+.shift-title {
+  font-size: var(--report-subsection-title-size, 20px);
+  font-weight: var(--report-fw-subsection, 700);
+  margin-bottom: 20px;
+  letter-spacing: -0.02em;
+  word-break: keep-all;
+}
+
+.shift.down .shift-title {
+  color: var(--fc-v5-red, #c83f33);
+}
+
+.shift.up .shift-title {
+  color: var(--fc-v5-blue, #1d5fd0);
+}
+
+.shift .task-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+  align-content: start;
+}
+
+.shift .task-list li {
+  display: grid;
+  grid-template-columns: 24px 1fr;
+  gap: 2px;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--fc-v5-line2, #edf1f5);
+  font-size: var(--report-body-size, 15px);
+  line-height: 1.48;
+  color: #475467;
+  word-break: keep-all;
+  overflow-wrap: normal;
+}
+
+.shift .task-list li .num {
+  font-size: var(--report-meta-size, 12.5px);
+  font-weight: var(--report-fw-meta, 500);
+  padding-top: 2px;
+}
+
+.shift.down .task-list li .num {
+  color: var(--fc-v5-red, #c83f33);
+}
+
+.shift.up .task-list li .num {
+  color: var(--fc-v5-blue, #1d5fd0);
+}
+
+.shift-note {
+  margin-top: 30px;
+  padding: 24px 0 0;
+  border-top: 2px solid #d9dee6;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.shift-note--down {
+  border-top-color: #e8c9c5;
+}
+
+.shift-note--up {
+  border-top-color: #c9d8f3;
+}
+
+.shift-note p {
+  font-size: var(--report-body-size, 15px);
+  line-height: 1.72;
+  margin: 0;
+  color: #475467;
+  word-break: keep-all;
+  overflow-wrap: normal;
+}
+
+.shift-note p + p {
+  margin-top: 22px;
+}
+
+.shift-note b {
+  display: block;
+  margin-bottom: 7px;
+  font-size: var(--report-label-size, 13.5px);
+  color: #111827;
+  font-weight: var(--report-fw-label, 650);
+}
+
+.shift.down .shift-note p:first-child b {
+  color: var(--fc-v5-red, #c83f33);
+}
+
+.shift.up .shift-note p:first-child b {
+  color: var(--fc-v5-blue, #1d5fd0);
+}
+
+@media (max-width: 900px) {
+  .shift-grid {
+    grid-template-columns: 1fr;
+    border-top: 0;
+  }
+
+  .shift,
+  .shift.up {
+    padding: 24px 0 0;
+    border-left: 0;
+    border-top: 1px solid var(--fc-line, #dfe5ec);
+  }
+
+  .shift .task-list,
+  .shift .shift-note {
+    min-height: 0 !important;
+  }
+}

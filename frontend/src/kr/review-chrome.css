@@ -1,0 +1,199 @@
+.kr-review-layout {
+  display: grid;
+  grid-template-columns: minmax(240px, 320px) 1fr;
+  min-height: 100vh;
+  background: #f6f4ef;
+}
+
+.kr-review-chrome {
+  position: sticky;
+  top: 0;
+  align-self: start;
+  max-height: 100vh;
+  overflow: auto;
+  padding: 1rem;
+  border-right: 1px solid #d9d2c5;
+  background: #fffdf8;
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.kr-review-chrome__head {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.kr-review-chrome__grid {
+  display: grid;
+  gap: 0.75rem;
+  margin: 0;
+}
+
+.kr-review-chrome__grid dt {
+  font-weight: 700;
+  margin-bottom: 0.2rem;
+}
+
+.kr-review-chrome__grid dd {
+  margin: 0;
+  word-break: break-word;
+}
+
+.kr-review-chrome__note {
+  margin-top: 1rem;
+  color: #5b5346;
+}
+
+.kr-review-chrome__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.kr-review-chrome__links a {
+  color: #1f4b3a;
+}
+
+.report-view-wrap {
+  min-width: 0;
+}
+
+.kr-occ-search {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin: 0.75rem 0;
+}
+
+.kr-occ-search__label {
+  font-weight: 700;
+}
+
+.kr-occ-search input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.45rem 0.55rem;
+  border: 1px solid #d9d2c5;
+  border-radius: 4px;
+  background: #fff;
+  font: inherit;
+}
+
+.kr-occ-list {
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  max-height: 55vh;
+  overflow: auto;
+  border-top: 1px solid #e8e1d4;
+}
+
+.kr-occ-list__item {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.15rem;
+  padding: 0.55rem 0.35rem;
+  border: 0;
+  border-bottom: 1px solid #eee8dc;
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+}
+
+.kr-occ-list__item:hover,
+.kr-occ-list__item.is-active {
+  background: #f3efe6;
+}
+
+.kr-occ-list__name {
+  font-weight: 600;
+}
+
+.kr-occ-list__id {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 11px;
+  color: #5b5346;
+}
+
+.kr-occ-list__badge {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.05rem 0.35rem;
+  border: 1px solid #d9d2c5;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 600;
+  color: #7a7163;
+  vertical-align: middle;
+}
+
+.kr-ta-empty {
+  padding: 2rem 1.25rem;
+  color: #5b5346;
+}
+
+@media (max-width: 900px) {
+  .kr-review-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .kr-review-chrome {
+    position: static;
+    max-height: none;
+  }
+}
+
+/* Dev review launcher + missing state — not part of V28 report chrome */
+.kr-final-report-review,
+.kr-final-report-missing {
+  max-width: 720px;
+  margin: 48px auto;
+  padding: 0 24px;
+  font-family: Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #172033;
+  line-height: 1.6;
+}
+
+.kr-final-report-review h1,
+.kr-final-report-missing h1 {
+  font-size: 28px;
+  letter-spacing: -0.03em;
+  margin: 0 0 12px;
+}
+
+.kr-final-report-review ul {
+  list-style: none;
+  padding: 0;
+  margin: 28px 0 0;
+}
+
+.kr-final-report-review li {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 14px 0;
+  border-top: 1px solid #e8e4dc;
+}
+
+.kr-final-report-review li a {
+  color: #17365d;
+  text-decoration: none;
+  font-weight: 650;
+}
+
+.kr-final-report-review code {
+  margin-left: 10px;
+  font-weight: 500;
+  color: #667085;
+}
+
+.kr-final-report-missing code {
+  font-size: 0.95em;
+}

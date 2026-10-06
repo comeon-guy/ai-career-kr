@@ -1,0 +1,2467 @@
+{
+  "version": "KR_OCCUPATION_SEARCH_INDEX_V1",
+  "unit": "Work24 jobCd as soc_code field for occupationSearch consumer",
+  "source": "frontend/src/kr/occupationNameByJobCd.json",
+  "items": [
+    {
+      "soc_code": "K000000821",
+      "occupation_title_ko": "제관원(제관기조작원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000822",
+      "occupation_title_ko": "항공기 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000823",
+      "occupation_title_ko": "판금원(판금기조작원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000824",
+      "occupation_title_ko": "번역가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000825",
+      "occupation_title_ko": "자연과학 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000826",
+      "occupation_title_ko": "전기기기·제품개발기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000827",
+      "occupation_title_ko": "노점 및 이동 판매원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000828",
+      "occupation_title_ko": "시멘트 및 광물제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000829",
+      "occupation_title_ko": "토목안전·환경기술자 및 토목품질기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000830",
+      "occupation_title_ko": "치과위생사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000831",
+      "occupation_title_ko": "도장원(도장기조작원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000832",
+      "occupation_title_ko": "정보 보안 전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000833",
+      "occupation_title_ko": "사회복지 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000835",
+      "occupation_title_ko": "산업안전원 및 위험관리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000837",
+      "occupation_title_ko": "외국어 강사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000838",
+      "occupation_title_ko": "초·중·고등학교 교장 및 교감",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000839",
+      "occupation_title_ko": "표백 및 염색기 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000840",
+      "occupation_title_ko": "송·배전설비기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000841",
+      "occupation_title_ko": "김치 및 밑반찬 제조 종사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000842",
+      "occupation_title_ko": "육묘 및 화훼작물재배자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000843",
+      "occupation_title_ko": "자재관리 사무원(물류사무원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000846",
+      "occupation_title_ko": "장례 지도사 및 장례 상담원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000847",
+      "occupation_title_ko": "기업 대표 및 기업 고위 임원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000848",
+      "occupation_title_ko": "재봉사(의류·직물)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000849",
+      "occupation_title_ko": "보조교사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000850",
+      "occupation_title_ko": "요양 보호사 및 간병인",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000851",
+      "occupation_title_ko": "지휘자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000852",
+      "occupation_title_ko": "생명과학 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000853",
+      "occupation_title_ko": "시스템 소프트웨어 개발자(프로그래머)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000854",
+      "occupation_title_ko": "주차 관리원 및 안내원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000856",
+      "occupation_title_ko": "컴퓨터시스템설계 및 분석가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000857",
+      "occupation_title_ko": "사회복지사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000858",
+      "occupation_title_ko": "자동차부품조립·검사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000860",
+      "occupation_title_ko": "로봇공학기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000861",
+      "occupation_title_ko": "제과·제빵원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000864",
+      "occupation_title_ko": "재활공학기사(의지보조기기사)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000865",
+      "occupation_title_ko": "석유화학공학기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000866",
+      "occupation_title_ko": "출판·자료편집사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000867",
+      "occupation_title_ko": "직업 운동선수",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000868",
+      "occupation_title_ko": "건설 및 채굴 기계 운전원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000869",
+      "occupation_title_ko": "조림·산림경영인 및 벌목원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000870",
+      "occupation_title_ko": "플랜트기계공학기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000871",
+      "occupation_title_ko": "일반기계 조립원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000872",
+      "occupation_title_ko": "광고 및 홍보 전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000873",
+      "occupation_title_ko": "음향 및 녹음 기사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000874",
+      "occupation_title_ko": "주유원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000875",
+      "occupation_title_ko": "인적자원전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000876",
+      "occupation_title_ko": "전기감리기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000877",
+      "occupation_title_ko": "항공공학기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000878",
+      "occupation_title_ko": "도시계획·설계가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000879",
+      "occupation_title_ko": "디스플레이연구 및 개발자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000880",
+      "occupation_title_ko": "사진 인화 및 현상기 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000881",
+      "occupation_title_ko": "공연·영화 및 음반 기획자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000882",
+      "occupation_title_ko": "귀금속 및 보석 세공원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000883",
+      "occupation_title_ko": "학습지·교육교구 방문강사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000884",
+      "occupation_title_ko": "선박갑판원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000885",
+      "occupation_title_ko": "승강기 설치 및 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000886",
+      "occupation_title_ko": "냉동·냉장·공조기 설치 및 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000887",
+      "occupation_title_ko": "수질환경기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000888",
+      "occupation_title_ko": "지적 및 측량기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000890",
+      "occupation_title_ko": "UX/UI디자이너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000891",
+      "occupation_title_ko": "교통계획·설계가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000893",
+      "occupation_title_ko": "음료 조리사(바리스타포함)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000894",
+      "occupation_title_ko": "악기 제조원 및 조율사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000895",
+      "occupation_title_ko": "건설 및 광업 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000896",
+      "occupation_title_ko": "점화·발파·화약관리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000897",
+      "occupation_title_ko": "철골공(강구조물건립원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000899",
+      "occupation_title_ko": "영화배우 및 탤런트",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000900",
+      "occupation_title_ko": "통신망운영기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000901",
+      "occupation_title_ko": "연극 및 뮤지컬배우",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000902",
+      "occupation_title_ko": "낙농 관련 종사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000904",
+      "occupation_title_ko": "숙박시설 서비스 종사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000905",
+      "occupation_title_ko": "음료 제조 관련 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000906",
+      "occupation_title_ko": "대학 교수",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000907",
+      "occupation_title_ko": "채소 및 특용작물 재배원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000908",
+      "occupation_title_ko": "보험인수심사원(언더라이터)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000909",
+      "occupation_title_ko": "운송장비 조립원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000910",
+      "occupation_title_ko": "법률·경찰·소방 및 교도 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000911",
+      "occupation_title_ko": "예능 강사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000913",
+      "occupation_title_ko": "홀서빙원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000915",
+      "occupation_title_ko": "건축감리기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000916",
+      "occupation_title_ko": "상하수도 처리장치 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000917",
+      "occupation_title_ko": "전자 부품 및 제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000918",
+      "occupation_title_ko": "무역 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000919",
+      "occupation_title_ko": "마케팅 및 광고·홍보 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000920",
+      "occupation_title_ko": "토양환경기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000922",
+      "occupation_title_ko": "건축설비기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000923",
+      "occupation_title_ko": "단열공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000924",
+      "occupation_title_ko": "통신기기·장비기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000925",
+      "occupation_title_ko": "정부·공공행정전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000926",
+      "occupation_title_ko": "어부 및 해녀",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000927",
+      "occupation_title_ko": "전기 부품 및 제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000929",
+      "occupation_title_ko": "수상 및 항공운송 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000930",
+      "occupation_title_ko": "제품·광고 영업원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000931",
+      "occupation_title_ko": "보건 의료 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000932",
+      "occupation_title_ko": "유리 부착원(유리공)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000933",
+      "occupation_title_ko": "행정부고위공무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000934",
+      "occupation_title_ko": "화학공학 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000935",
+      "occupation_title_ko": "가축 사육 종사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000936",
+      "occupation_title_ko": "통신기술개발자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000937",
+      "occupation_title_ko": "신문기자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000938",
+      "occupation_title_ko": "대기환경기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000940",
+      "occupation_title_ko": "건축시공기술자 및 견적원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000941",
+      "occupation_title_ko": "철도 및 전동차 기관사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000942",
+      "occupation_title_ko": "금속·재료공학 기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000943",
+      "occupation_title_ko": "종이제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000944",
+      "occupation_title_ko": "경영 및 진단 전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000945",
+      "occupation_title_ko": "금속가공 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000946",
+      "occupation_title_ko": "도료 및 농약품 화학공학기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000947",
+      "occupation_title_ko": "문리학원 강사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000949",
+      "occupation_title_ko": "인문과학 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000950",
+      "occupation_title_ko": "음식 서비스 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000951",
+      "occupation_title_ko": "모델",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000952",
+      "occupation_title_ko": "매장 계산원 및 요금 정산원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000953",
+      "occupation_title_ko": "소방공학 기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000954",
+      "occupation_title_ko": "하역 및 적재 종사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000955",
+      "occupation_title_ko": "행사·전시 및 회의 기획자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000956",
+      "occupation_title_ko": "건축구조기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000957",
+      "occupation_title_ko": "스포츠강사 및 트레이너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000958",
+      "occupation_title_ko": "방송 관련 장비 설치 및 수리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000961",
+      "occupation_title_ko": "사무용 전자기기 설치 및 수리원(컴퓨터제외)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000962",
+      "occupation_title_ko": "도금 및 금속 분무기 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000963",
+      "occupation_title_ko": "컴퓨터 설치 및 수리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000964",
+      "occupation_title_ko": "건설 배관공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000965",
+      "occupation_title_ko": "의복·가죽 및 모피 수선원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000966",
+      "occupation_title_ko": "잡지기자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000967",
+      "occupation_title_ko": "기술·기능계강사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000968",
+      "occupation_title_ko": "네트워크시스템개발자(네트워크엔지니어)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000969",
+      "occupation_title_ko": "문화·예술 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000970",
+      "occupation_title_ko": "식품공학 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000971",
+      "occupation_title_ko": "가구 조립원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000972",
+      "occupation_title_ko": "네일아티스트(손톱관리사)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000974",
+      "occupation_title_ko": "선장 및 항해사·도선사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000975",
+      "occupation_title_ko": "발전설비기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000976",
+      "occupation_title_ko": "선박 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000977",
+      "occupation_title_ko": "보험대리인 및 중개인",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000978",
+      "occupation_title_ko": "IT기술지원전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000979",
+      "occupation_title_ko": "오락시설 서비스 종사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000981",
+      "occupation_title_ko": "레크리에이션전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000982",
+      "occupation_title_ko": "패스트푸드 준비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000983",
+      "occupation_title_ko": "잠수기능원(잠수부, 구난잠수요원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000984",
+      "occupation_title_ko": "전자제품 및 부품 개발기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000985",
+      "occupation_title_ko": "조경 기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000986",
+      "occupation_title_ko": "화학제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000987",
+      "occupation_title_ko": "자산운용가(펀드매니저)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000988",
+      "occupation_title_ko": "인쇄 관련 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000989",
+      "occupation_title_ko": "환경·청소 및 경비 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000990",
+      "occupation_title_ko": "대학교 총장 및 대학학장",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000991",
+      "occupation_title_ko": "여행·숙박(호텔)관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000992",
+      "occupation_title_ko": "토목구조설계기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000993",
+      "occupation_title_ko": "약사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000994",
+      "occupation_title_ko": "컴퓨터 하드웨어 기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000995",
+      "occupation_title_ko": "일반행정공무원(조세, 관세, 병무 제외)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000996",
+      "occupation_title_ko": "가구 제조 및 수리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000997",
+      "occupation_title_ko": "상품 기획 전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000998",
+      "occupation_title_ko": "의약품공학기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000000999",
+      "occupation_title_ko": "세탁원 및 다림질원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001000",
+      "occupation_title_ko": "제품 디자이너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001001",
+      "occupation_title_ko": "생산 및 품질관리 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001003",
+      "occupation_title_ko": "재활용 처리장치 및 소각로 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001004",
+      "occupation_title_ko": "기술 영업원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001005",
+      "occupation_title_ko": "주입·포장 및 상표부착 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001006",
+      "occupation_title_ko": "주조원(주조기조작원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001007",
+      "occupation_title_ko": "사진기자 및 사진사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001008",
+      "occupation_title_ko": "패션소품디자이너(의상제외)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001009",
+      "occupation_title_ko": "석유 및 천연가스 제조 관련 제어 장치 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001010",
+      "occupation_title_ko": "도로 및 철도운송 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001011",
+      "occupation_title_ko": "수의사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001013",
+      "occupation_title_ko": "냉·난방 관련 설비 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001014",
+      "occupation_title_ko": "건축가(건축설계사)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001015",
+      "occupation_title_ko": "신발 제조기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001016",
+      "occupation_title_ko": "곡물가공 제품 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001017",
+      "occupation_title_ko": "방사선사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001018",
+      "occupation_title_ko": "전기·가스 및 수도 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001019",
+      "occupation_title_ko": "학예사(큐레이터)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001020",
+      "occupation_title_ko": "간판 제작 및 설치원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001021",
+      "occupation_title_ko": "공간정보시스템전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001023",
+      "occupation_title_ko": "공업기계 설치 및 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001024",
+      "occupation_title_ko": "제분 및 도정 관련 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001025",
+      "occupation_title_ko": "미디어 콘텐츠 창작자(웹방송전문가)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001026",
+      "occupation_title_ko": "소음진동기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001027",
+      "occupation_title_ko": "스포츠 감독 및 코치",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001028",
+      "occupation_title_ko": "영업 및 판매 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001029",
+      "occupation_title_ko": "영상시나리오작가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001030",
+      "occupation_title_ko": "철도기관차 및 전동차 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001031",
+      "occupation_title_ko": "보일러 설치 및 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001032",
+      "occupation_title_ko": "정보 통신 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001033",
+      "occupation_title_ko": "제화원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001034",
+      "occupation_title_ko": "새시 조립 및 설치원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001035",
+      "occupation_title_ko": "조경원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001036",
+      "occupation_title_ko": "가스·에너지시험원 및 진단전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001037",
+      "occupation_title_ko": "유리·유리제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001038",
+      "occupation_title_ko": "방수공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001039",
+      "occupation_title_ko": "통신 관련 장비 설치 및 수리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001040",
+      "occupation_title_ko": "관세 행정 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001041",
+      "occupation_title_ko": "방송송출장비기사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001042",
+      "occupation_title_ko": "모바일앱개발자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001043",
+      "occupation_title_ko": "농업용·기타 기계장비 설치 및 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001044",
+      "occupation_title_ko": "바텐더(조주사)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001045",
+      "occupation_title_ko": "과실 및 채소가공 관련 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001047",
+      "occupation_title_ko": "고무 및 플라스틱제품 조립원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001049",
+      "occupation_title_ko": "심리상담전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001050",
+      "occupation_title_ko": "상품 대여원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001051",
+      "occupation_title_ko": "통역가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001053",
+      "occupation_title_ko": "타일·대리석시공원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001054",
+      "occupation_title_ko": "화학물 가공 장치 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001055",
+      "occupation_title_ko": "용접원(용접기조작원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001056",
+      "occupation_title_ko": "양식원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001057",
+      "occupation_title_ko": "세탁 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001059",
+      "occupation_title_ko": "경영 지원 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001060",
+      "occupation_title_ko": "시각 디자이너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001061",
+      "occupation_title_ko": "웹 운영자(홈페이지 관리자)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001062",
+      "occupation_title_ko": "철로 설치 및 보수원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001063",
+      "occupation_title_ko": "식품공학 기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001064",
+      "occupation_title_ko": "보건위생·환경검사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001065",
+      "occupation_title_ko": "중·고등학교 교사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001066",
+      "occupation_title_ko": "청소원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001067",
+      "occupation_title_ko": "토목감리기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001069",
+      "occupation_title_ko": "광고·홍보·마케팅사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001070",
+      "occupation_title_ko": "자동차 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001072",
+      "occupation_title_ko": "섬유 제조기계 조작원(방적,방사,연사,합사,권사기등)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001073",
+      "occupation_title_ko": "토목시공기술자 및 견적원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001074",
+      "occupation_title_ko": "통신장비기사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001075",
+      "occupation_title_ko": "방송·통신·인터넷 케이블 설치 및 수리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001076",
+      "occupation_title_ko": "자동조립라인 및 산업용로봇 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001077",
+      "occupation_title_ko": "공예원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001078",
+      "occupation_title_ko": "목재 가공 관련 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001079",
+      "occupation_title_ko": "경영 기획 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001080",
+      "occupation_title_ko": "데이터분석가(빅데이터분석가)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001081",
+      "occupation_title_ko": "정부 행정 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001082",
+      "occupation_title_ko": "기계 및 로봇공학 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001083",
+      "occupation_title_ko": "외선 전기공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001084",
+      "occupation_title_ko": "가스·에너지공학 기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001085",
+      "occupation_title_ko": "정보통신컨설턴트 및 감리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001087",
+      "occupation_title_ko": "발전 및 배전 장치 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001088",
+      "occupation_title_ko": "언어치료사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001089",
+      "occupation_title_ko": "가수",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001090",
+      "occupation_title_ko": "제도사(캐드원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001091",
+      "occupation_title_ko": "피부 및 체형관리사(발관리사포함)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001092",
+      "occupation_title_ko": "매표원 및 복권 판매원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001093",
+      "occupation_title_ko": "여행상품 개발자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001094",
+      "occupation_title_ko": "운송 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001095",
+      "occupation_title_ko": "내선 전기공(건물내전기공사원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001096",
+      "occupation_title_ko": "건설 및 채굴 단순 종사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001097",
+      "occupation_title_ko": "환경공학 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001098",
+      "occupation_title_ko": "가전제품 설치 및 수리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001099",
+      "occupation_title_ko": "영상·녹화 및 편집 기사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001100",
+      "occupation_title_ko": "기록물관리사(기록물관리전문요원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001101",
+      "occupation_title_ko": "조선·해양공학기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001102",
+      "occupation_title_ko": "미장공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001103",
+      "occupation_title_ko": "건설기계공학기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001104",
+      "occupation_title_ko": "신용추심원(채권관리원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001105",
+      "occupation_title_ko": "식품 및 담배 등급원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001106",
+      "occupation_title_ko": "웹개발자(웹 프로그래머)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001107",
+      "occupation_title_ko": "크레인 및 지게차 설치 및 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001109",
+      "occupation_title_ko": "단말기 및 통신 서비스 판매원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001110",
+      "occupation_title_ko": "국악인",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001111",
+      "occupation_title_ko": "광원 채석원 및 석재 절단원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001112",
+      "occupation_title_ko": "금속 공작기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001113",
+      "occupation_title_ko": "특수교육 교사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001114",
+      "occupation_title_ko": "증권 사무원(출납창구제외)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001115",
+      "occupation_title_ko": "양장 및 양복 제조원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001117",
+      "occupation_title_ko": "건축 목공(전통건축기능원 포함)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001118",
+      "occupation_title_ko": "전기 및 전자설비 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001119",
+      "occupation_title_ko": "문화재보존원(컨서베이터)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001120",
+      "occupation_title_ko": "교통영향평가원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001121",
+      "occupation_title_ko": "이동전화기 수리원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001122",
+      "occupation_title_ko": "재단사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001123",
+      "occupation_title_ko": "섬유공학 기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001124",
+      "occupation_title_ko": "플라스틱제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001126",
+      "occupation_title_ko": "개그맨 및 코미디언",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001127",
+      "occupation_title_ko": "의료코디네이터",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001128",
+      "occupation_title_ko": "상점 판매원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001131",
+      "occupation_title_ko": "출납 창구 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001132",
+      "occupation_title_ko": "정보 시스템 운영자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001133",
+      "occupation_title_ko": "전문의사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001134",
+      "occupation_title_ko": "데이터 시스템 전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001135",
+      "occupation_title_ko": "전기·전자 부품 및 제품 조립원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001136",
+      "occupation_title_ko": "은행 사무원(출납창구제외)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001137",
+      "occupation_title_ko": "신호원 및 수송원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001138",
+      "occupation_title_ko": "방송연출가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001139",
+      "occupation_title_ko": "조사전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001140",
+      "occupation_title_ko": "생명과학 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001141",
+      "occupation_title_ko": "비누 및 화장품 화학공학기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001142",
+      "occupation_title_ko": "건축안전·환경기술자 및 건축품질기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001143",
+      "occupation_title_ko": "소규모판매점장",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001144",
+      "occupation_title_ko": "영양사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001145",
+      "occupation_title_ko": "직조기 및 편직기 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001148",
+      "occupation_title_ko": "단조원(단조기조작원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001149",
+      "occupation_title_ko": "교재·교구 및 이러닝전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001150",
+      "occupation_title_ko": "시설 및 특수 경비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001151",
+      "occupation_title_ko": "섬유공학 시험원(섬유·염료)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001152",
+      "occupation_title_ko": "타이어 및 고무제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001153",
+      "occupation_title_ko": "IT테스터 및 IT QA전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001154",
+      "occupation_title_ko": "온라인 쇼핑 판매원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001156",
+      "occupation_title_ko": "환경미화원 및 재활용품 수거원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001157",
+      "occupation_title_ko": "농림어업 관련 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001158",
+      "occupation_title_ko": "산업 전기공(항공기·선박·철도기관차·전동차전기공)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001160",
+      "occupation_title_ko": "연극영화방송기술감독",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001161",
+      "occupation_title_ko": "아나운서",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001162",
+      "occupation_title_ko": "보험 심사원 및 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001163",
+      "occupation_title_ko": "금융상품개발원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001164",
+      "occupation_title_ko": "화물차 및 특수차 운전원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001165",
+      "occupation_title_ko": "금속가공 제어장치 조작원(용광로·용해로·금속가열로)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001166",
+      "occupation_title_ko": "육류·어패류 및 낙농품 가공 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001167",
+      "occupation_title_ko": "혼례 종사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001168",
+      "occupation_title_ko": "증권 및 외환 딜러",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001169",
+      "occupation_title_ko": "방송작가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001170",
+      "occupation_title_ko": "안내·접수원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001171",
+      "occupation_title_ko": "유치원 원장 및 원감",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001172",
+      "occupation_title_ko": "웹기획자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001173",
+      "occupation_title_ko": "제품 생산 관련 관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001174",
+      "occupation_title_ko": "점토제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001175",
+      "occupation_title_ko": "위관급 장교",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001176",
+      "occupation_title_ko": "응용소프트웨어개발자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001177",
+      "occupation_title_ko": "건설자재시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001178",
+      "occupation_title_ko": "메이크업아티스트 및 뷰티매니저",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001179",
+      "occupation_title_ko": "투자분석가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001180",
+      "occupation_title_ko": "법률 관련 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001181",
+      "occupation_title_ko": "연주가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001182",
+      "occupation_title_ko": "패턴사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001183",
+      "occupation_title_ko": "속기사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001184",
+      "occupation_title_ko": "반도체공학 기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001185",
+      "occupation_title_ko": "자동차공학기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001186",
+      "occupation_title_ko": "청능치료사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001187",
+      "occupation_title_ko": "여행 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001188",
+      "occupation_title_ko": "도배공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001189",
+      "occupation_title_ko": "금속 및 재료공학 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001190",
+      "occupation_title_ko": "연구관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001191",
+      "occupation_title_ko": "전자계측제어기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001192",
+      "occupation_title_ko": "주방 보조원(일반음식점)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001193",
+      "occupation_title_ko": "고무 및 플라스틱 화학공학기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001194",
+      "occupation_title_ko": "고객상담원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001195",
+      "occupation_title_ko": "상품중개인 및 경매사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001196",
+      "occupation_title_ko": "인사·교육·훈련사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001197",
+      "occupation_title_ko": "광석 및 석제품 생산기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001198",
+      "occupation_title_ko": "출판물기획자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001199",
+      "occupation_title_ko": "펄프 및 종이 제조 장치 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001200",
+      "occupation_title_ko": "영업기획·관리·지원사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001202",
+      "occupation_title_ko": "전기계측제어기술자(전기패널, 계장, 공정자동화전기 등)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001203",
+      "occupation_title_ko": "관광 서비스 종사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001204",
+      "occupation_title_ko": "계기 검침원 및 가스 점검원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001205",
+      "occupation_title_ko": "전기 및 전자공학 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001206",
+      "occupation_title_ko": "보험모집인(보험설계사/FC)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001207",
+      "occupation_title_ko": "리포터",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001208",
+      "occupation_title_ko": "조적공 및 석재 부설원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001209",
+      "occupation_title_ko": "정육원 가공원 및 도축원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001210",
+      "occupation_title_ko": "금융관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001211",
+      "occupation_title_ko": "건설·광업용기계설치 및 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001212",
+      "occupation_title_ko": "청원경찰",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001213",
+      "occupation_title_ko": "크레인 및 호이스트운전원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001215",
+      "occupation_title_ko": "신용분석사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001216",
+      "occupation_title_ko": "예술치료사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001218",
+      "occupation_title_ko": "홍보도우미 및 판촉원(나레이터모델포함)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001219",
+      "occupation_title_ko": "전산자료입력원 및 사무보조원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001220",
+      "occupation_title_ko": "대학 강사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001221",
+      "occupation_title_ko": "법무사 및 집행관",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001222",
+      "occupation_title_ko": "방송기자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000001223",
+      "occupation_title_ko": "금형원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000006723",
+      "occupation_title_ko": "보험계리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007449",
+      "occupation_title_ko": "회계사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007450",
+      "occupation_title_ko": "중식조리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007451",
+      "occupation_title_ko": "텔레마케터",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007452",
+      "occupation_title_ko": "가상현실전문가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007454",
+      "occupation_title_ko": "의상디자이너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007456",
+      "occupation_title_ko": "병무행정사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007457",
+      "occupation_title_ko": "한복제조원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007458",
+      "occupation_title_ko": "영화감독",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007459",
+      "occupation_title_ko": "영상그래픽디자이너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007460",
+      "occupation_title_ko": "광고영상감독",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007461",
+      "occupation_title_ko": "응급구조사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007462",
+      "occupation_title_ko": "지게차운전원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007463",
+      "occupation_title_ko": "웹디자이너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007465",
+      "occupation_title_ko": "택시운전원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007466",
+      "occupation_title_ko": "경리사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007467",
+      "occupation_title_ko": "콘크리트공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007468",
+      "occupation_title_ko": "버스운전원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007469",
+      "occupation_title_ko": "선박기관사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007470",
+      "occupation_title_ko": "변리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007471",
+      "occupation_title_ko": "보험관리자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007472",
+      "occupation_title_ko": "치과의사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007473",
+      "occupation_title_ko": "조명기사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007474",
+      "occupation_title_ko": "한약사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007475",
+      "occupation_title_ko": "건축석공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007476",
+      "occupation_title_ko": "성우",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007477",
+      "occupation_title_ko": "반려동물미용사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007478",
+      "occupation_title_ko": "비서",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007479",
+      "occupation_title_ko": "안무가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007480",
+      "occupation_title_ko": "건물도장공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007481",
+      "occupation_title_ko": "미용사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007482",
+      "occupation_title_ko": "변호사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007484",
+      "occupation_title_ko": "곡식작물재배원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007486",
+      "occupation_title_ko": "과수작물재배원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007487",
+      "occupation_title_ko": "회계사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007491",
+      "occupation_title_ko": "전기안전기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007492",
+      "occupation_title_ko": "보건의료정보관리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007494",
+      "occupation_title_ko": "간호사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007495",
+      "occupation_title_ko": "소방관",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007497",
+      "occupation_title_ko": "수의사 보조원(동물보건사)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007498",
+      "occupation_title_ko": "실내장식디자이너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007500",
+      "occupation_title_ko": "관세사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007501",
+      "occupation_title_ko": "물리치료사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007502",
+      "occupation_title_ko": "보육교사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007503",
+      "occupation_title_ko": "연극연출가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007504",
+      "occupation_title_ko": "일반의사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007505",
+      "occupation_title_ko": "성악가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007506",
+      "occupation_title_ko": "항공기객실승무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007507",
+      "occupation_title_ko": "프로게이머",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007508",
+      "occupation_title_ko": "부사관",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007509",
+      "occupation_title_ko": "안경사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007513",
+      "occupation_title_ko": "방문판매원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007514",
+      "occupation_title_ko": "감정평가사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007516",
+      "occupation_title_ko": "조세행정사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007517",
+      "occupation_title_ko": "총무사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007521",
+      "occupation_title_ko": "경찰관",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007523",
+      "occupation_title_ko": "검표원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007524",
+      "occupation_title_ko": "행정사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007525",
+      "occupation_title_ko": "세무사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007526",
+      "occupation_title_ko": "청소년지도사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007527",
+      "occupation_title_ko": "판사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007528",
+      "occupation_title_ko": "분장사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007530",
+      "occupation_title_ko": "유치원교사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007532",
+      "occupation_title_ko": "사서",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007533",
+      "occupation_title_ko": "철근공",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007536",
+      "occupation_title_ko": "부동산 컨설턴트 및 중개사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007537",
+      "occupation_title_ko": "작업치료사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007538",
+      "occupation_title_ko": "한식조리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007539",
+      "occupation_title_ko": "컴퓨터강사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007540",
+      "occupation_title_ko": "해양경찰관",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007541",
+      "occupation_title_ko": "생활지도원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007542",
+      "occupation_title_ko": "한의사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007543",
+      "occupation_title_ko": "촬영기사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007544",
+      "occupation_title_ko": "임상병리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007545",
+      "occupation_title_ko": "비파괴검사원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007546",
+      "occupation_title_ko": "무용가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007547",
+      "occupation_title_ko": "안마사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007548",
+      "occupation_title_ko": "자동차조립원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007549",
+      "occupation_title_ko": "경호원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007552",
+      "occupation_title_ko": "항공기조종사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007553",
+      "occupation_title_ko": "감사사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007554",
+      "occupation_title_ko": "폐기물처리기술자",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007555",
+      "occupation_title_ko": "양식조리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007556",
+      "occupation_title_ko": "주방장 및 요리 연구가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007558",
+      "occupation_title_ko": "초등학교교사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007560",
+      "occupation_title_ko": "해외영업원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007561",
+      "occupation_title_ko": "손해사정사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007562",
+      "occupation_title_ko": "노무사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007564",
+      "occupation_title_ko": "놀이치료사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007565",
+      "occupation_title_ko": "직업상담사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007566",
+      "occupation_title_ko": "가사관리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007567",
+      "occupation_title_ko": "게임그래픽디자이너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007569",
+      "occupation_title_ko": "이용사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007570",
+      "occupation_title_ko": "교도관",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007572",
+      "occupation_title_ko": "소설가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007573",
+      "occupation_title_ko": "검사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007574",
+      "occupation_title_ko": "연예인매니저",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007576",
+      "occupation_title_ko": "간호조무사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007577",
+      "occupation_title_ko": "치과기공사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007579",
+      "occupation_title_ko": "일식조리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007580",
+      "occupation_title_ko": "게임프로그래머",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007582",
+      "occupation_title_ko": "환경영향평가원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000007583",
+      "occupation_title_ko": "작곡가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008481",
+      "occupation_title_ko": "네트워크관리자(클라우딩컴퓨터운영관리자)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008482",
+      "occupation_title_ko": "떡 제조원(한과포함)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008483",
+      "occupation_title_ko": "우편집배원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008484",
+      "occupation_title_ko": "공업배관공(플렌트, 항공, 선박, 철도차량)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008485",
+      "occupation_title_ko": "경량철골공(석고보드공, 텍스공, 조립주택건립원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008486",
+      "occupation_title_ko": "경비원(건물관리원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008487",
+      "occupation_title_ko": "세정원 및 방역원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008488",
+      "occupation_title_ko": "선박 및 열차 객실 승무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008489",
+      "occupation_title_ko": "결혼 상담원 및 웨딩플래너",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008490",
+      "occupation_title_ko": "육아 도우미(베이비시터)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008491",
+      "occupation_title_ko": "자동차 영업원(자동차딜러)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008492",
+      "occupation_title_ko": "택배원(늘찬배달원)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008493",
+      "occupation_title_ko": "관제사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008494",
+      "occupation_title_ko": "대중무용수(백댄서)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008495",
+      "occupation_title_ko": "만화가 및 만화영화 작가(애니메이터)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008501",
+      "occupation_title_ko": "화가 및 조각가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008502",
+      "occupation_title_ko": "시민사회활동가",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008503",
+      "occupation_title_ko": "임상심리사(심리치료사)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008504",
+      "occupation_title_ko": "취업알선원(직업소개소)",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008521",
+      "occupation_title_ko": "자연과학 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008522",
+      "occupation_title_ko": "사회과학 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008523",
+      "occupation_title_ko": "통계·데이터 관련 사무원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008541",
+      "occupation_title_ko": "신재생에너지 기술자 및 연구원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008542",
+      "occupation_title_ko": "신재생에너지 시험원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008543",
+      "occupation_title_ko": "장학관 및 연구관",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008544",
+      "occupation_title_ko": "단체급식 조리사",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008545",
+      "occupation_title_ko": "로봇 설치 및 정비원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008546",
+      "occupation_title_ko": "기계 부품 조립원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008547",
+      "occupation_title_ko": "일차전지 및 이차전지 제조 기계 조작원",
+      "occupation_title_en": ""
+    },
+    {
+      "soc_code": "K000008548",
+      "occupation_title_ko": "방재기술자 및 연구원",
+      "occupation_title_en": ""
+    }
+  ]
+}
